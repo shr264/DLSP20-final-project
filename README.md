@@ -1,7 +1,6 @@
 # DLSP20-final-project
 
 
-
 Change directory (`cd`) into the folder, then type:
 
 
@@ -16,7 +15,7 @@ source activate pDL
 
 
 
-Then we can simply run the scripts as follows:
+Then we can simply run the scripts (for example UnetLite for Bounding Box prediction) as follows:
 
 ```
 
