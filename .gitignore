@@ -3,7 +3,5 @@
 models/
 imgs/
 *.csv
-*.jpg
-*.png
 *.pyc
 __pycache__
