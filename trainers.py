@@ -80,7 +80,7 @@ def train_and_test_CNNVAE_BB(model,
                 y = torch.stack(sample).reshape(6, -1, 3, 256, 256).to(device)
                 # ===================forward=====================
                 x_hat, mu, logvar = model(x, y)
-                loss = loss_function_CNNVAE(x_hat, x, mu, logvar, device)
+                loss = loss_function_CNNVAE(x_hat, x, mu, logvar, device=device)
                 train_loss += loss.item()
                 # ===================backward====================
                 if not math.isnan(loss.item()):
@@ -121,9 +121,9 @@ def train_and_test_CNNVAE_BB(model,
                 x_hat_post = model.inference(y, mu, logvar)
                 x_hat_prior = model.inference(y)
                 test_loss_post += loss_function_CNNVAE(x_hat_post,
-                                                       x, mu, logvar, epoch=10).item()
+                                                       x, mu, logvar, device=device).item()
                 test_loss_prior += loss_function_CNNVAE(x_hat_prior,
-                                                        x, mu, logvar, epoch=10).item()
+                                                        x, mu, logvar, device=device).item()
                 # =====================log=======================
                 means.append(mu.detach())
                 logvars.append(logvar.detach())
@@ -235,7 +235,7 @@ def train_and_test_CNNVAE_Road(model,
                 y = torch.stack(sample).reshape(6, -1, 3, 256, 256).to(device)
                 # ===================forward=====================
                 x_hat, mu, logvar = model(x, y)
-                loss = loss_function_CNNVAE(x_hat, x, mu, logvar, device)
+                loss = loss_function_CNNVAE(x_hat, x, mu, logvar, device=device)
                 train_loss += loss.item()
                 # ===================backward====================
                 if not math.isnan(loss.item()):
@@ -278,9 +278,9 @@ def train_and_test_CNNVAE_Road(model,
                 x_hat_post = model.inference(y, mu, logvar)
                 x_hat_prior = model.inference(y)
                 test_loss_post += loss_function_CNNVAE(x_hat_post,
-                                                       x, mu, logvar, epoch=10).item()
+                                                       x, mu, logvar, device=device).item()
                 test_loss_prior += loss_function_CNNVAE(x_hat_prior,
-                                                        x, mu, logvar, epoch=10).item()
+                                                        x, mu, logvar, device=device).item()
                 # =====================log=======================
                 means.append(mu.detach())
                 logvars.append(logvar.detach())

@@ -37,7 +37,7 @@ np.random.seed(0)
 torch.manual_seed(0)
 
 
-def loss_function_iou(x_hat, x, gamma=0.1, device=None):
+def loss_function_iou(x_hat, x, gamma=0.05, device=None):
 
     iou_loss = IoULoss()
     one_count = x.sum().cpu().item()

@@ -49,8 +49,8 @@ torch.manual_seed(0)
 # All the labels are saved in the annotation_csv file
 
 # ON PRINCE
-image_folder = '../../DLSP20Dataset/data'
-annotation_csv = '../../DLSP20Dataset/data/annotation.csv'
+image_folder = '../DLSP20Dataset/data'
+annotation_csv = '../DLSP20Dataset/data/annotation.csv'
 
 
 # ON WORK LAPTOP

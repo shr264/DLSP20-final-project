@@ -49,8 +49,8 @@ torch.manual_seed(0)
 
 # All the images are saved in image_folder
 # All the labels are saved in the annotation_csv file
-image_folder = '../../DLSP20Dataset/data'
-annotation_csv = '../../DLSP20Dataset/data/annotation.csv'
+image_folder = '../DLSP20Dataset/data'
+annotation_csv = '../DLSP20Dataset/data/annotation.csv'
 
 device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
 
