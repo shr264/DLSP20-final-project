@@ -111,7 +111,7 @@ testloader = torch.utils.data.DataLoader(labeled_testset,
 # Defining the model
 
 
-model = CNN_VAE().to(device)
+model = CNN_VAE(device=device).to(device)
 # Setting the optimiser
 
 learning_rate = 1e-2

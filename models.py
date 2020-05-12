@@ -318,11 +318,12 @@ class DecoderX(nn.Module):
 
 class CNN_VAE(nn.Module):
     # hidden_d=196, image_d=650 or hidden_d=286, image_d=625
-    def __init__(self, hidden_d=196, image_d=650):
+    def __init__(self, hidden_d=196, image_d=650, device='cpu'):
         super().__init__()
 
         self.d = hidden_d
         self.id = image_d
+        self.device = device
 
         self.y_encoder = EncoderY(d=self.id)
 
@@ -353,7 +354,7 @@ class CNN_VAE(nn.Module):
 
     def inference(self, y, mu=None, logvar=None):
         N = y.size(1)
-        z = torch.randn((N, self.d)).to(device)
+        z = torch.randn((N, self.d)).to(self.device)
         # print('Prior:',z.shape)
         if mu is not None and logvar is not None:
             # print(mu.shape)
@@ -536,11 +537,12 @@ for param in encoder.parameters():
 
 class CNN_VAE_transfer(nn.Module):
     # hidden_d=196, image_d=650 or hidden_d=286, image_d=625
-    def __init__(self, hidden_d=196, image_d=650):
+    def __init__(self, hidden_d=196, image_d=650, device='cpu'):
         super().__init__()
 
         self.d = hidden_d
         self.id = image_d
+        self.device = device
 
         self.y_encoder = encoder
 
@@ -571,7 +573,7 @@ class CNN_VAE_transfer(nn.Module):
 
     def inference(self, y, mu=None, logvar=None):
         N = y.size(1)
-        z = torch.randn((N, self.d)).to(device)
+        z = torch.randn((N, self.d)).to(self.device)
         # print('Prior:',z.shape)
         if mu is not None and logvar is not None:
             # print(mu.shape)
