@@ -386,9 +386,10 @@ def train_and_test_RotNet(model_cnn,
                 print('Train Epoch: {} [{}/{} ({:.0f}%)]\tLoss: {:.6f}'.format(
                     epoch, batch_idx * len(data), len(trainloader.dataset),
                     100. * batch_idx / len(trainloader), loss.item()))
+            return model
 
     def test(model, best_loss):
-        global best_loss, best_model
+
         model.eval()
         test_loss = 0
         correct = 0
@@ -418,7 +419,7 @@ def train_and_test_RotNet(model_cnn,
         return test_loss, best_loss
 
     for epoch in range(0, epochs):
-        train(epoch, model_cnn)
+        model_cnn = train(epoch, model_cnn)
         test_loss, best_loss = test(model_cnn, best_loss)
         scheduler.step(test_loss)
 
