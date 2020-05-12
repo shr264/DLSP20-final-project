@@ -518,7 +518,7 @@ class Encoder(nn.Module):
 # Defining the model
 encoder = Encoder()
 pretrained_dict = torch.load(
-    'models/rotation_learning_model.pth', map_location=device)
+    'models/rotation_learning_model.pth')
 model_dict = encoder.state_dict()
 
 # 1. filter out unnecessary keys

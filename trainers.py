@@ -46,6 +46,8 @@ np.random.seed(0)
 torch.manual_seed(0)
 
 
+device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
+
 def train_and_test_CNNVAE_BB(model,
                              learning_rate,
                              optimizer,
@@ -459,7 +461,7 @@ def train_validate_segmentation_model_Roadmap(model,
                     6, -1, 3, img_w, img_h).to(device)
                 # ===================forward=====================
                 x_hat = model(y)
-                loss = loss_function(x_hat, x)
+                loss = loss_function(x_hat, x, device=device)
                 train_loss += loss.item()
                 # ===================backward====================
                 optimizer.zero_grad()
@@ -492,7 +494,7 @@ def train_validate_segmentation_model_Roadmap(model,
 
                 # ===================forward=====================
                 x_hat = model(y)
-                test_loss += loss_function(x_hat, x).item()
+                test_loss += loss_function(x_hat, x, device=device).item()
                 # =====================log=======================
 
                 i = 0
@@ -603,7 +605,7 @@ def train_validate_segmentation_model_BB(model,
                     6, -1, 3, img_w, img_h).to(device)
                 # ===================forward=====================
                 x_hat = model(y)
-                loss = loss_function(x_hat, x)
+                loss = loss_function(x_hat, x, device=device)
                 train_loss += loss.item()
                 # ===================backward====================
                 optimizer.zero_grad()
@@ -636,7 +638,7 @@ def train_validate_segmentation_model_BB(model,
 
                 # ===================forward=====================
                 x_hat = model(y)
-                test_loss += loss_function(x_hat, x).item()
+                test_loss += loss_function(x_hat, x, device=device).item()
                 # =====================log=======================
 
                 i = 0
