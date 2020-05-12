@@ -87,8 +87,10 @@ test_scene_index = unlabeled_scene_index[np.isin(
 #                             #torchvision.transforms.Normalize((0.5, 0.5, 0.5), (0.5, 0.5, 0.5)),
 #                            ])
 
-transform = torchvision.transforms.Compose([torchvision.transforms.Resize((200, 200)),
-                                            torchvision.transforms.ToTensor()
+transform = torchvision.transforms.Compose([torchvision.transforms.Resize((256, 256)),
+                                            torchvision.transforms.ToTensor(),
+                                            torchvision.transforms.Normalize(
+                                                (0.5, 0.5, 0.5), (0.5, 0.5, 0.5)),
                                             ])
 
 # The dataset class for unlabeled data.

@@ -387,7 +387,7 @@ def train_and_test_RotNet(model_cnn,
                     epoch, batch_idx * len(data), len(trainloader.dataset),
                     100. * batch_idx / len(trainloader), loss.item()))
 
-    def test(model):
+    def test(model, best_loss):
         global best_loss, best_model
         model.eval()
         test_loss = 0
@@ -415,11 +415,11 @@ def train_and_test_RotNet(model_cnn,
             torch.save(best_model.state_dict(),
                        'models/'+name+'.pth')
 
-        return test_loss
+        return test_loss, best_loss
 
     for epoch in range(0, epochs):
         train(epoch, model_cnn)
-        test_loss = test(model_cnn)
+        test_loss, best_loss = test(model_cnn, best_loss)
         scheduler.step(test_loss)
 
 

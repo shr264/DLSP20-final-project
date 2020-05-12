@@ -1,0 +1,1412 @@
+====> Epoch: 0 Average loss: 740710.8814
+Confusion Matrix (Post) at threshold: 0.2
+Threat Score: 0.43435177206993103
+tensor([[      0, 2896119],
+        [      0, 2223881]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.2
+Threat Score: 0.43435177206993103
+tensor([[      0, 2896119],
+        [      0, 2223881]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.21000000000000002
+Threat Score: 0.43435177206993103
+tensor([[      0, 2896119],
+        [      0, 2223881]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.21000000000000002
+Threat Score: 0.43435177206993103
+tensor([[      0, 2896119],
+        [      0, 2223881]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.22
+Threat Score: 0.43435177206993103
+tensor([[      0, 2896119],
+        [      0, 2223881]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.22
+Threat Score: 0.43435177206993103
+tensor([[      0, 2896119],
+        [      0, 2223881]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.23
+Threat Score: 0.43435177206993103
+tensor([[      0, 2896119],
+        [      0, 2223881]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.23
+Threat Score: 0.43435177206993103
+tensor([[      0, 2896119],
+        [      0, 2223881]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.24000000000000002
+Threat Score: 0.43435177206993103
+tensor([[      0, 2896119],
+        [      0, 2223881]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.24000000000000002
+Threat Score: 0.43435177206993103
+tensor([[      0, 2896119],
+        [      0, 2223881]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.25
+Threat Score: 0.43435177206993103
+tensor([[      0, 2896119],
+        [      0, 2223881]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.25
+Threat Score: 0.43435177206993103
+tensor([[      0, 2896119],
+        [      0, 2223881]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.26
+Threat Score: 0.43435177206993103
+tensor([[      0, 2896119],
+        [      0, 2223881]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.26
+Threat Score: 0.43435177206993103
+tensor([[      0, 2896119],
+        [      0, 2223881]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.27
+Threat Score: 0.43435177206993103
+tensor([[      0, 2896119],
+        [      0, 2223881]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.27
+Threat Score: 0.43435177206993103
+tensor([[      0, 2896119],
+        [      0, 2223881]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.28
+Threat Score: 0.43435177206993103
+tensor([[      0, 2896119],
+        [      0, 2223881]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.28
+Threat Score: 0.43435177206993103
+tensor([[      0, 2896119],
+        [      0, 2223881]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.29000000000000004
+Threat Score: 0.43435177206993103
+tensor([[      0, 2896119],
+        [      0, 2223881]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.29000000000000004
+Threat Score: 0.43435177206993103
+tensor([[      0, 2896119],
+        [      0, 2223881]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.30000000000000004
+Threat Score: 0.43435177206993103
+tensor([[      0, 2896119],
+        [      0, 2223881]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.30000000000000004
+Threat Score: 0.43435177206993103
+tensor([[      0, 2896119],
+        [      0, 2223881]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.31
+Threat Score: 0.43435177206993103
+tensor([[      0, 2896119],
+        [      0, 2223881]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.31
+Threat Score: 0.43435177206993103
+tensor([[      0, 2896119],
+        [      0, 2223881]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.32
+Threat Score: 0.43435177206993103
+tensor([[      0, 2896119],
+        [      0, 2223881]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.32
+Threat Score: 0.43435177206993103
+tensor([[      0, 2896119],
+        [      0, 2223881]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.33
+Threat Score: 0.4343511760234833
+tensor([[      7, 2896112],
+        [      6, 2223875]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.33
+Threat Score: 0.4343511760234833
+tensor([[      7, 2896112],
+        [      6, 2223875]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.34
+Threat Score: 0.4343556761741638
+tensor([[    122, 2895997],
+        [     33, 2223848]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.34
+Threat Score: 0.4343556761741638
+tensor([[    122, 2895997],
+        [     33, 2223848]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.35
+Threat Score: 0.43436598777770996
+tensor([[    870, 2895249],
+        [    305, 2223576]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.35
+Threat Score: 0.43436598777770996
+tensor([[    870, 2895249],
+        [    305, 2223576]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.36
+Threat Score: 0.434797078371048
+tensor([[  15237, 2880882],
+        [   4345, 2219536]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.36
+Threat Score: 0.434797078371048
+tensor([[  15237, 2880882],
+        [   4345, 2219536]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.37
+Threat Score: 0.43857666850090027
+tensor([[  94238, 2801881],
+        [  19699, 2204182]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.37
+Threat Score: 0.4385768473148346
+tensor([[  94240, 2801879],
+        [  19699, 2204182]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.38
+Threat Score: 0.461989164352417
+tensor([[ 501632, 2394487],
+        [  90245, 2133636]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.38
+Threat Score: 0.4619893729686737
+tensor([[ 501632, 2394487],
+        [  90244, 2133637]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.39
+Threat Score: 0.5212862491607666
+tensor([[1295696, 1600423],
+        [ 230324, 1993557]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.39
+Threat Score: 0.5212860703468323
+tensor([[1295695, 1600424],
+        [ 230324, 1993557]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.4
+Threat Score: 0.5911059379577637
+tensor([[1973750,  922369],
+        [ 364114, 1859767]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.4
+Threat Score: 0.5911059379577637
+tensor([[1973750,  922369],
+        [ 364114, 1859767]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.41000000000000003
+Threat Score: 0.6566036939620972
+tensor([[2386814,  509305],
+        [ 429261, 1794620]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.41000000000000003
+Threat Score: 0.6566036939620972
+tensor([[2386814,  509305],
+        [ 429261, 1794620]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.42000000000000004
+Threat Score: 0.6733728647232056
+tensor([[2486018,  410101],
+        [ 450229, 1773652]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.42000000000000004
+Threat Score: 0.6733728647232056
+tensor([[2486018,  410101],
+        [ 450229, 1773652]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.43000000000000005
+Threat Score: 0.679743230342865
+tensor([[2523977,  372142],
+        [ 459252, 1764629]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.43000000000000005
+Threat Score: 0.679742693901062
+tensor([[2523975,  372144],
+        [ 459252, 1764629]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.44
+Threat Score: 0.6818530559539795
+tensor([[2541107,  355012],
+        [ 465455, 1758426]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.44
+Threat Score: 0.6818530559539795
+tensor([[2541107,  355012],
+        [ 465455, 1758426]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.45
+Threat Score: 0.6832060217857361
+tensor([[2555857,  340262],
+        [ 472043, 1751838]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.45
+Threat Score: 0.6832060217857361
+tensor([[2555857,  340262],
+        [ 472043, 1751838]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.46
+Threat Score: 0.6843742728233337
+tensor([[2575854,  320265],
+        [ 482733, 1741148]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.46
+Threat Score: 0.6843742728233337
+tensor([[2575854,  320265],
+        [ 482733, 1741148]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.47000000000000003
+Threat Score: 0.6840857863426208
+tensor([[2597926,  298193],
+        [ 498566, 1725315]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.47000000000000003
+Threat Score: 0.6840857863426208
+tensor([[2597926,  298193],
+        [ 498566, 1725315]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.48000000000000004
+Threat Score: 0.6837343573570251
+tensor([[2620911,  275208],
+        [ 515168, 1708713]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.48000000000000004
+Threat Score: 0.6837343573570251
+tensor([[2620911,  275208],
+        [ 515168, 1708713]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.49
+Threat Score: 0.6828552484512329
+tensor([[2653511,  242608],
+        [ 539626, 1684255]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.49
+Threat Score: 0.6828552484512329
+tensor([[2653511,  242608],
+        [ 539626, 1684255]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.5
+Threat Score: 0.6783019304275513
+tensor([[2751198,  144921],
+        [ 617118, 1606763]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.5
+Threat Score: 0.6783019304275513
+tensor([[2751198,  144921],
+        [ 617118, 1606763]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.51
+Threat Score: 0.6779133677482605
+tensor([[2754720,  141399],
+        [ 620426, 1603455]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.51
+Threat Score: 0.6779133677482605
+tensor([[2754720,  141399],
+        [ 620426, 1603455]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.52
+Threat Score: 0.6774216294288635
+tensor([[2756993,  139126],
+        [ 623129, 1600752]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.52
+Threat Score: 0.6774216294288635
+tensor([[2756993,  139126],
+        [ 623129, 1600752]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.53
+Threat Score: 0.6768584251403809
+tensor([[2758747,  137372],
+        [ 625647, 1598234]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.53
+Threat Score: 0.6768584251403809
+tensor([[2758747,  137372],
+        [ 625647, 1598234]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.54
+Threat Score: 0.6760912537574768
+tensor([[2760956,  135163],
+        [ 628952, 1594929]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.54
+Threat Score: 0.6760912537574768
+tensor([[2760956,  135163],
+        [ 628952, 1594929]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.55
+Threat Score: 0.6751250624656677
+tensor([[2763832,  132287],
+        [ 633173, 1590708]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.55
+Threat Score: 0.6751250624656677
+tensor([[2763832,  132287],
+        [ 633173, 1590708]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.56
+Threat Score: 0.6743370890617371
+tensor([[2766450,  129669],
+        [ 636795, 1587086]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.56
+Threat Score: 0.6743370890617371
+tensor([[2766450,  129669],
+        [ 636795, 1587086]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.5700000000000001
+Threat Score: 0.6732752323150635
+tensor([[2768703,  127416],
+        [ 640811, 1583070]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.5700000000000001
+Threat Score: 0.6732752323150635
+tensor([[2768703,  127416],
+        [ 640811, 1583070]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.5800000000000001
+Threat Score: 0.6720490455627441
+tensor([[2770292,  125827],
+        [ 644762, 1579119]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.5800000000000001
+Threat Score: 0.6720490455627441
+tensor([[2770292,  125827],
+        [ 644762, 1579119]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.5900000000000001
+Threat Score: 0.670630931854248
+tensor([[2772873,  123246],
+        [ 649825, 1574056]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.5900000000000001
+Threat Score: 0.670630931854248
+tensor([[2772873,  123246],
+        [ 649825, 1574056]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.6000000000000001
+Threat Score: 0.668854296207428
+tensor([[2775434,  120685],
+        [ 655708, 1568173]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.6000000000000001
+Threat Score: 0.668854296207428
+tensor([[2775434,  120685],
+        [ 655708, 1568173]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.6100000000000001
+Threat Score: 0.6670539379119873
+tensor([[2777194,  118925],
+        [ 661103, 1562778]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.6100000000000001
+Threat Score: 0.6670539379119873
+tensor([[2777194,  118925],
+        [ 661103, 1562778]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.62
+Threat Score: 0.6650739908218384
+tensor([[2778659,  117460],
+        [ 666716, 1557165]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.62
+Threat Score: 0.6650739908218384
+tensor([[2778659,  117460],
+        [ 666716, 1557165]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.63
+Threat Score: 0.6629056334495544
+tensor([[2780216,  115903],
+        [ 672825, 1551056]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.63
+Threat Score: 0.6629056334495544
+tensor([[2780216,  115903],
+        [ 672825, 1551056]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.64
+Threat Score: 0.6611466407775879
+tensor([[2781676,  114443],
+        [ 677906, 1545975]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.64
+Threat Score: 0.6611466407775879
+tensor([[2781676,  114443],
+        [ 677906, 1545975]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.65
+Threat Score: 0.6588801741600037
+tensor([[2783170,  112949],
+        [ 684190, 1539691]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.65
+Threat Score: 0.6588801741600037
+tensor([[2783170,  112949],
+        [ 684190, 1539691]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.66
+Threat Score: 0.656379759311676
+tensor([[2784407,  111712],
+        [ 690845, 1533036]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.66
+Threat Score: 0.656379759311676
+tensor([[2784407,  111712],
+        [ 690845, 1533036]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.67
+Threat Score: 0.6533051133155823
+tensor([[2785515,  110604],
+        [ 698750, 1525131]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.67
+Threat Score: 0.6533051133155823
+tensor([[2785515,  110604],
+        [ 698750, 1525131]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.6799999999999999
+Threat Score: 0.6498972773551941
+tensor([[2786896,  109223],
+        [ 707603, 1516278]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.6799999999999999
+Threat Score: 0.6498972773551941
+tensor([[2786896,  109223],
+        [ 707603, 1516278]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.69
+Threat Score: 0.6473047733306885
+tensor([[2788069,  108050],
+        [ 714411, 1509470]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.69
+Threat Score: 0.6473047733306885
+tensor([[2788069,  108050],
+        [ 714411, 1509470]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.7
+Threat Score: 0.6445387601852417
+tensor([[2789383,  106736],
+        [ 721708, 1502173]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.7
+Threat Score: 0.6445387601852417
+tensor([[2789383,  106736],
+        [ 721708, 1502173]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.71
+Threat Score: 0.641014575958252
+tensor([[2790886,  105233],
+        [ 730885, 1492996]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.71
+Threat Score: 0.641014575958252
+tensor([[2790886,  105233],
+        [ 730885, 1492996]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.72
+Threat Score: 0.6377824544906616
+tensor([[2792200,  103919],
+        [ 739251, 1484630]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.72
+Threat Score: 0.6377824544906616
+tensor([[2792200,  103919],
+        [ 739251, 1484630]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.73
+Threat Score: 0.6338123679161072
+tensor([[2793821,  102298],
+        [ 749520, 1474361]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.73
+Threat Score: 0.6338123679161072
+tensor([[2793821,  102298],
+        [ 749520, 1474361]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.74
+Threat Score: 0.6285549998283386
+tensor([[2795551,  100568],
+        [ 762837, 1461044]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.74
+Threat Score: 0.6285549998283386
+tensor([[2795551,  100568],
+        [ 762837, 1461044]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.75
+Threat Score: 0.6232293248176575
+tensor([[2797213,   98906],
+        [ 776252, 1447629]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.75
+Threat Score: 0.6232293248176575
+tensor([[2797213,   98906],
+        [ 776252, 1447629]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.76
+Threat Score: 0.616029679775238
+tensor([[2799357,   96762],
+        [ 794296, 1429585]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.76
+Threat Score: 0.616029679775238
+tensor([[2799357,   96762],
+        [ 794296, 1429585]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.77
+Threat Score: 0.6075899004936218
+tensor([[2801757,   94362],
+        [ 815340, 1408541]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.77
+Threat Score: 0.6075903177261353
+tensor([[2801757,   94362],
+        [ 815339, 1408542]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.78
+Threat Score: 0.5952733755111694
+tensor([[2804746,   91373],
+        [ 845672, 1378209]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.78
+Threat Score: 0.5952733755111694
+tensor([[2804746,   91373],
+        [ 845672, 1378209]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.79
+Threat Score: 0.5722165703773499
+tensor([[2810273,   85846],
+        [ 902217, 1321664]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.79
+Threat Score: 0.5722165703773499
+tensor([[2810273,   85846],
+        [ 902217, 1321664]], device='cuda:0')
+==================================================
+====================================================================================================
+====================================================================================================
+Threat Score: 0.6783019304275513
+Threat Score: 0.7412435412406921
+Threat Score: 0.6966013312339783
+Threat Score: 0.5509368181228638
+Threat Score: 0.6162282228469849
+Threat Score: 0.5802648663520813
+Threat Score: 0.6147274374961853
+Threat Score: 0.7043291330337524
+Threat Score: 0.6890633702278137
+Threat Score: 0.5335774421691895
+Threat Score: 0.5674933791160583
+Threat Score: 0.5651457905769348
+Threat Score: 0.5759766101837158
+Threat Score: 0.6112746000289917
+Threat Score: 0.7785193920135498
+Threat Score: 0.6957303881645203
+Threat Score: 0.6199955344200134
+Threat Score: 0.6291701793670654
+Threat Score: 0.7008912563323975
+Threat Score: 0.6437388062477112
+Threat Score: 0.5872468948364258
+Threat Score: 0.6094927191734314
+Threat Score: 0.5481421947479248
+Threat Score: 0.6718993186950684
+Threat Score: 0.6734334230422974
+Threat Score: 0.6516509056091309
+Threat Score: 0.6986233592033386
+Threat Score: 0.7740176916122437
+Threat Score: 0.5538487434387207
+Threat Score: 0.7128090858459473
+Threat Score: 0.5592791438102722
+Threat Score: 0.4864427149295807
+Threat Score: 0.6740826368331909
+Threat Score: 0.6989233493804932
+Threat Score: 0.7407995462417603
+Threat Score: 0.754210352897644
+Threat Score: 0.6904459595680237
+Threat Score: 0.6956345438957214
+Threat Score: 0.6107954382896423
+Threat Score: 0.6466845870018005
+Threat Score: 0.7031216621398926
+Threat Score: 0.5736517906188965
+Threat Score: 0.5518908500671387
+Threat Score: 0.6582702994346619
+Threat Score: 0.536754310131073
+Threat Score: 0.6595079898834229
+Threat Score: 0.6948997378349304
+Threat Score: 0.6052602529525757
+Threat Score: 0.6203697323799133
+Threat Score: 0.5821974873542786
+Threat Score: 0.6889042258262634
+Threat Score: 0.6246075630187988
+Threat Score: 0.6936094164848328
+Threat Score: 0.711157500743866
+Threat Score: 0.6379696130752563
+Threat Score: 0.6243736743927002
+Threat Score: 0.6857608556747437
+Threat Score: 0.6729745268821716
+Threat Score: 0.6576385498046875
+Threat Score: 0.7793880701065063
+Threat Score: 0.589036226272583
+Threat Score: 0.5461494326591492
+Threat Score: 0.6933889985084534
+Threat Score: 0.7438399791717529
+Threat Score: 0.7450968027114868
+Threat Score: 0.7226489186286926
+Threat Score: 0.7017117738723755
+Threat Score: 0.5766130089759827
+Threat Score: 0.48034167289733887
+Threat Score: 0.5738438963890076
+Threat Score: 0.6479398012161255
+Threat Score: 0.53724604845047
+Threat Score: 0.7052302360534668
+Threat Score: 0.6225893497467041
+Threat Score: 0.6461792588233948
+Threat Score: 0.7421330809593201
+Threat Score: 0.7504912614822388
+Threat Score: 0.7234823107719421
+Threat Score: 0.6143921613693237
+Threat Score: 0.6259306073188782
+Threat Score: 0.6473330855369568
+Threat Score: 0.5350045561790466
+Threat Score: 0.4935436546802521
+Threat Score: 0.6250218152999878
+Threat Score: 0.5368042588233948
+Threat Score: 0.5807577967643738
+Threat Score: 0.7793667316436768
+Threat Score: 0.7607727646827698
+Threat Score: 0.6696255803108215
+Threat Score: 0.6767210960388184
+Threat Score: 0.5072194337844849
+Threat Score: 0.7346529364585876
+Threat Score: 0.6910082697868347
+Threat Score: 0.6932865977287292
+Threat Score: 0.6177094578742981
+Threat Score: 0.6805877685546875
+Threat Score: 0.732528567314148
+Threat Score: 0.5474720597267151
+Threat Score: 0.6798821687698364
+Threat Score: 0.5581396222114563
+Confusion Matrix (Post) at threshold: 0.2
+Threat Score: 0.49783575534820557
+tensor([[      0, 2571081],
+        [      0, 2548919]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.2
+Threat Score: 0.49783575534820557
+tensor([[      0, 2571081],
+        [      0, 2548919]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.21000000000000002
+Threat Score: 0.49783575534820557
+tensor([[      0, 2571081],
+        [      0, 2548919]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.21000000000000002
+Threat Score: 0.49783575534820557
+tensor([[      0, 2571081],
+        [      0, 2548919]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.22
+Threat Score: 0.49783575534820557
+tensor([[      0, 2571081],
+        [      0, 2548919]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.22
+Threat Score: 0.49783575534820557
+tensor([[      0, 2571081],
+        [      0, 2548919]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.23
+Threat Score: 0.49783575534820557
+tensor([[      0, 2571081],
+        [      0, 2548919]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.23
+Threat Score: 0.49783575534820557
+tensor([[      0, 2571081],
+        [      0, 2548919]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.24000000000000002
+Threat Score: 0.49783575534820557
+tensor([[      0, 2571081],
+        [      0, 2548919]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.24000000000000002
+Threat Score: 0.49783575534820557
+tensor([[      0, 2571081],
+        [      0, 2548919]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.25
+Threat Score: 0.49783575534820557
+tensor([[      0, 2571081],
+        [      0, 2548919]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.25
+Threat Score: 0.49783575534820557
+tensor([[      0, 2571081],
+        [      0, 2548919]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.26
+Threat Score: 0.49783575534820557
+tensor([[      0, 2571081],
+        [      0, 2548919]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.26
+Threat Score: 0.49783575534820557
+tensor([[      0, 2571081],
+        [      0, 2548919]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.27
+Threat Score: 0.49783575534820557
+tensor([[      0, 2571081],
+        [      0, 2548919]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.27
+Threat Score: 0.49783575534820557
+tensor([[      0, 2571081],
+        [      0, 2548919]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.28
+Threat Score: 0.49783575534820557
+tensor([[      0, 2571081],
+        [      0, 2548919]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.28
+Threat Score: 0.49783575534820557
+tensor([[      0, 2571081],
+        [      0, 2548919]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.29000000000000004
+Threat Score: 0.49783575534820557
+tensor([[      0, 2571081],
+        [      0, 2548919]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.29000000000000004
+Threat Score: 0.49783575534820557
+tensor([[      0, 2571081],
+        [      0, 2548919]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.30000000000000004
+Threat Score: 0.49783575534820557
+tensor([[      0, 2571081],
+        [      0, 2548919]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.30000000000000004
+Threat Score: 0.49783575534820557
+tensor([[      0, 2571081],
+        [      0, 2548919]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.31
+Threat Score: 0.49783575534820557
+tensor([[      0, 2571081],
+        [      0, 2548919]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.31
+Threat Score: 0.49783575534820557
+tensor([[      0, 2571081],
+        [      0, 2548919]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.32
+Threat Score: 0.49783575534820557
+tensor([[      0, 2571081],
+        [      0, 2548919]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.32
+Threat Score: 0.49783575534820557
+tensor([[      0, 2571081],
+        [      0, 2548919]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.33
+Threat Score: 0.49783575534820557
+tensor([[      0, 2571081],
+        [      0, 2548919]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.33
+Threat Score: 0.49783575534820557
+tensor([[      0, 2571081],
+        [      0, 2548919]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.34
+Threat Score: 0.4978407919406891
+tensor([[     52, 2571029],
+        [      0, 2548919]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.34
+Threat Score: 0.4978407919406891
+tensor([[     52, 2571029],
+        [      0, 2548919]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.35
+Threat Score: 0.4978645145893097
+tensor([[    302, 2570779],
+        [      3, 2548916]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.35
+Threat Score: 0.4978645145893097
+tensor([[    302, 2570779],
+        [      3, 2548916]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.36
+Threat Score: 0.49839144945144653
+tensor([[   5807, 2565274],
+        [     49, 2548870]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.36
+Threat Score: 0.49839144945144653
+tensor([[   5807, 2565274],
+        [     49, 2548870]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.37
+Threat Score: 0.5016465783119202
+tensor([[  49813, 2521268],
+        [   5477, 2543442]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.37
+Threat Score: 0.5016463994979858
+tensor([[  49813, 2521268],
+        [   5478, 2543441]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.38
+Threat Score: 0.5102148056030273
+tensor([[ 272924, 2298157],
+        [  75869, 2473050]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.38
+Threat Score: 0.5102149248123169
+tensor([[ 272925, 2298156],
+        [  75869, 2473050]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.39
+Threat Score: 0.5545285940170288
+tensor([[1003590, 1567491],
+        [ 266252, 2282667]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.39
+Threat Score: 0.5545288324356079
+tensor([[1003592, 1567489],
+        [ 266252, 2282667]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.4
+Threat Score: 0.6178941130638123
+tensor([[1734190,  836891],
+        [ 456847, 2092072]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.4
+Threat Score: 0.6178939342498779
+tensor([[1734189,  836892],
+        [ 456847, 2092072]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.41000000000000003
+Threat Score: 0.6671870350837708
+tensor([[2182185,  388896],
+        [ 588847, 1960072]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.41000000000000003
+Threat Score: 0.6671870350837708
+tensor([[2182185,  388896],
+        [ 588847, 1960072]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.42000000000000004
+Threat Score: 0.681911826133728
+tensor([[2295101,  275980],
+        [ 622587, 1926332]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.42000000000000004
+Threat Score: 0.681911826133728
+tensor([[2295101,  275980],
+        [ 622587, 1926332]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.43000000000000005
+Threat Score: 0.6878235340118408
+tensor([[2341203,  229878],
+        [ 637597, 1911322]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.43000000000000005
+Threat Score: 0.6878235340118408
+tensor([[2341203,  229878],
+        [ 637597, 1911322]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.44
+Threat Score: 0.6892221570014954
+tensor([[2359427,  211654],
+        [ 646271, 1902648]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.44
+Threat Score: 0.6892221570014954
+tensor([[2359427,  211654],
+        [ 646271, 1902648]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.45
+Threat Score: 0.6893944144248962
+tensor([[2374895,  196186],
+        [ 656459, 1892460]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.45
+Threat Score: 0.6893944144248962
+tensor([[2374895,  196186],
+        [ 656459, 1892460]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.46
+Threat Score: 0.6891005039215088
+tensor([[2392926,  178155],
+        [ 669691, 1879228]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.46
+Threat Score: 0.6891000866889954
+tensor([[2392926,  178155],
+        [ 669692, 1879227]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.47000000000000003
+Threat Score: 0.6871196627616882
+tensor([[2411549,  159532],
+        [ 687889, 1861030]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.47000000000000003
+Threat Score: 0.6871196627616882
+tensor([[2411549,  159532],
+        [ 687889, 1861030]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.48000000000000004
+Threat Score: 0.6831583976745605
+tensor([[2429482,  141599],
+        [ 710869, 1838050]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.48000000000000004
+Threat Score: 0.6831583976745605
+tensor([[2429482,  141599],
+        [ 710869, 1838050]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.49
+Threat Score: 0.6749192476272583
+tensor([[2450002,  121079],
+        [ 746886, 1802033]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.49
+Threat Score: 0.6749188303947449
+tensor([[2450002,  121079],
+        [ 746887, 1802032]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.5
+Threat Score: 0.6441882252693176
+tensor([[2504682,   66399],
+        [ 864162, 1684757]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.5
+Threat Score: 0.6441882252693176
+tensor([[2504682,   66399],
+        [ 864162, 1684757]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.51
+Threat Score: 0.6433038711547852
+tensor([[2507583,   63498],
+        [ 868341, 1680578]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.51
+Threat Score: 0.6433038711547852
+tensor([[2507583,   63498],
+        [ 868341, 1680578]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.52
+Threat Score: 0.6426244378089905
+tensor([[2509648,   61433],
+        [ 871443, 1677476]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.52
+Threat Score: 0.6426244378089905
+tensor([[2509648,   61433],
+        [ 871443, 1677476]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.53
+Threat Score: 0.6420680284500122
+tensor([[2511281,   59800],
+        [ 873944, 1674975]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.53
+Threat Score: 0.6420680284500122
+tensor([[2511281,   59800],
+        [ 873944, 1674975]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.54
+Threat Score: 0.6412522196769714
+tensor([[2513659,   57422],
+        [ 877597, 1671322]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.54
+Threat Score: 0.6412522196769714
+tensor([[2513659,   57422],
+        [ 877597, 1671322]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.55
+Threat Score: 0.6403170824050903
+tensor([[2516279,   54802],
+        [ 881712, 1667207]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.55
+Threat Score: 0.6403170824050903
+tensor([[2516279,   54802],
+        [ 881712, 1667207]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.56
+Threat Score: 0.6392307281494141
+tensor([[2518304,   52777],
+        [ 885835, 1663084]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.56
+Threat Score: 0.6392307281494141
+tensor([[2518304,   52777],
+        [ 885835, 1663084]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.5700000000000001
+Threat Score: 0.6381072402000427
+tensor([[2520346,   50735],
+        [ 890061, 1658858]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.5700000000000001
+Threat Score: 0.6381072402000427
+tensor([[2520346,   50735],
+        [ 890061, 1658858]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.5800000000000001
+Threat Score: 0.6369343400001526
+tensor([[2522445,   48636],
+        [ 894447, 1654472]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.5800000000000001
+Threat Score: 0.6369343400001526
+tensor([[2522445,   48636],
+        [ 894447, 1654472]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.5900000000000001
+Threat Score: 0.6353837847709656
+tensor([[2524852,   46229],
+        [ 900004, 1648915]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.5900000000000001
+Threat Score: 0.6353837847709656
+tensor([[2524852,   46229],
+        [ 900004, 1648915]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.6000000000000001
+Threat Score: 0.633600652217865
+tensor([[2527176,   43905],
+        [ 906104, 1642815]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.6000000000000001
+Threat Score: 0.633600652217865
+tensor([[2527176,   43905],
+        [ 906104, 1642815]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.6100000000000001
+Threat Score: 0.6317883729934692
+tensor([[2528705,   42376],
+        [ 911769, 1637150]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.6100000000000001
+Threat Score: 0.6317883729934692
+tensor([[2528705,   42376],
+        [ 911769, 1637150]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.62
+Threat Score: 0.6299845576286316
+tensor([[2530227,   40854],
+        [ 917402, 1631517]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.62
+Threat Score: 0.6299845576286316
+tensor([[2530227,   40854],
+        [ 917402, 1631517]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.63
+Threat Score: 0.6278530955314636
+tensor([[2531780,   39301],
+        [ 923897, 1625022]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.63
+Threat Score: 0.6278530955314636
+tensor([[2531780,   39301],
+        [ 923897, 1625022]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.64
+Threat Score: 0.6259158849716187
+tensor([[2532884,   38197],
+        [ 929602, 1619317]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.64
+Threat Score: 0.6259158849716187
+tensor([[2532884,   38197],
+        [ 929602, 1619317]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.65
+Threat Score: 0.6238563060760498
+tensor([[2534576,   36505],
+        [ 935986, 1612933]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.65
+Threat Score: 0.6238563060760498
+tensor([[2534576,   36505],
+        [ 935986, 1612933]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.66
+Threat Score: 0.6214314103126526
+tensor([[2536051,   35030],
+        [ 943172, 1605747]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.66
+Threat Score: 0.6214314103126526
+tensor([[2536051,   35030],
+        [ 943172, 1605747]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.67
+Threat Score: 0.618664026260376
+tensor([[2537975,   33106],
+        [ 951513, 1597406]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.67
+Threat Score: 0.618664026260376
+tensor([[2537975,   33106],
+        [ 951513, 1597406]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.6799999999999999
+Threat Score: 0.6158415079116821
+tensor([[2539638,   31443],
+        [ 959825, 1589094]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.6799999999999999
+Threat Score: 0.6158413290977478
+tensor([[2539639,   31442],
+        [ 959826, 1589093]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.69
+Threat Score: 0.6134091019630432
+tensor([[2540992,   30089],
+        [ 966932, 1581987]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.69
+Threat Score: 0.6134091019630432
+tensor([[2540992,   30089],
+        [ 966932, 1581987]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.7
+Threat Score: 0.6105408668518066
+tensor([[2542343,   28738],
+        [ 975154, 1573765]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.7
+Threat Score: 0.6105408668518066
+tensor([[2542343,   28738],
+        [ 975154, 1573765]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.71
+Threat Score: 0.6072753667831421
+tensor([[2543892,   27189],
+        [ 984512, 1564407]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.71
+Threat Score: 0.6072753667831421
+tensor([[2543892,   27189],
+        [ 984512, 1564407]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.72
+Threat Score: 0.6040734648704529
+tensor([[2545257,   25824],
+        [ 993585, 1555334]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.72
+Threat Score: 0.6040734648704529
+tensor([[2545257,   25824],
+        [ 993585, 1555334]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.73
+Threat Score: 0.5999044179916382
+tensor([[2546690,   24391],
+        [1005179, 1543740]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.73
+Threat Score: 0.5999044179916382
+tensor([[2546690,   24391],
+        [1005179, 1543740]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.74
+Threat Score: 0.59479159116745
+tensor([[2548585,   22496],
+        [1019463, 1529456]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.74
+Threat Score: 0.59479159116745
+tensor([[2548585,   22496],
+        [1019463, 1529456]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.75
+Threat Score: 0.5895318984985352
+tensor([[2550190,   20891],
+        [1033934, 1514985]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.75
+Threat Score: 0.5895318984985352
+tensor([[2550190,   20891],
+        [1033934, 1514985]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.76
+Threat Score: 0.5821321606636047
+tensor([[2552260,   18821],
+        [1054155, 1494764]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.76
+Threat Score: 0.5821321606636047
+tensor([[2552260,   18821],
+        [1054155, 1494764]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.77
+Threat Score: 0.5731486082077026
+tensor([[2554278,   16803],
+        [1078379, 1470540]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.77
+Threat Score: 0.5731486082077026
+tensor([[2554278,   16803],
+        [1078379, 1470540]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.78
+Threat Score: 0.5575556755065918
+tensor([[2556222,   14859],
+        [1119470, 1429449]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.78
+Threat Score: 0.5575556755065918
+tensor([[2556222,   14859],
+        [1119470, 1429449]], device='cuda:0')
+==================================================
+Confusion Matrix (Post) at threshold: 0.79
+Threat Score: 0.527492880821228
+tensor([[2558663,   12418],
+        [1197832, 1351087]], device='cuda:0')
+==================================================
+Confusion Matrix (Prior) at threshold: 0.79
+Threat Score: 0.527492880821228
+tensor([[2558663,   12418],
+        [1197832, 1351087]], device='cuda:0')
+==================================================
+====================================================================================================
+====================================================================================================
+Threat Score: 0.6441882252693176
+Threat Score: 0.6654963493347168
+Threat Score: 0.6244605183601379
+Threat Score: 0.7058850526809692
+Threat Score: 0.7298656702041626
+Threat Score: 0.7323364019393921
+Threat Score: 0.6793658137321472
+Threat Score: 0.5119292140007019
+Threat Score: 0.7014384865760803
+Threat Score: 0.6809549927711487
+Threat Score: 0.6467607021331787
+Threat Score: 0.6685802936553955
+Threat Score: 0.6702443957328796
+Threat Score: 0.5278871655464172
+Threat Score: 0.5669420957565308
+Threat Score: 0.7141631245613098
+Threat Score: 0.6509149670600891
+Threat Score: 0.6508609056472778
+Threat Score: 0.5025097727775574
+Threat Score: 0.7055575847625732
+Threat Score: 0.6253659129142761
+Threat Score: 0.7188943028450012
+Threat Score: 0.7486767172813416
+Threat Score: 0.6380846500396729
+Threat Score: 0.6101906895637512
+Threat Score: 0.6722190976142883
+Threat Score: 0.6762476563453674
+Threat Score: 0.6341008543968201
+Threat Score: 0.6522920727729797
+Threat Score: 0.6960521936416626
+Threat Score: 0.5560353398323059
+Threat Score: 0.541969358921051
+Threat Score: 0.554455041885376
+Threat Score: 0.6069208383560181
+Threat Score: 0.6438703536987305
+Threat Score: 0.5796889066696167
+Threat Score: 0.562517523765564
+Threat Score: 0.7357244491577148
+Threat Score: 0.707744300365448
+Threat Score: 0.7147758603096008
+Threat Score: 0.566163957118988
+Threat Score: 0.682004988193512
+Threat Score: 0.7379320859909058
+Threat Score: 0.6346573233604431
+Threat Score: 0.6424774527549744
+Threat Score: 0.6525710225105286
+Threat Score: 0.6765442490577698
+Threat Score: 0.7445812225341797
+Threat Score: 0.6352254152297974
+Threat Score: 0.7458996176719666
+Threat Score: 0.507656991481781
+Threat Score: 0.6891007423400879
+Threat Score: 0.658065140247345
+Threat Score: 0.6533966064453125
+Threat Score: 0.5749297142028809
+Threat Score: 0.583896815776825
+Threat Score: 0.746197521686554
+Threat Score: 0.7607675790786743
+Threat Score: 0.6624383330345154
+Threat Score: 0.703397274017334
+Threat Score: 0.6218096017837524
+Threat Score: 0.6768850684165955
+Threat Score: 0.651867687702179
+Threat Score: 0.523639976978302
+Threat Score: 0.6041014194488525
+Threat Score: 0.6157512068748474
+Threat Score: 0.6107282638549805
+Threat Score: 0.660780131816864
+Threat Score: 0.5939770936965942
+Threat Score: 0.8358626961708069
+Threat Score: 0.7223678827285767
+Threat Score: 0.7052728533744812
+Threat Score: 0.5730399489402771
+Threat Score: 0.6188175678253174
+Threat Score: 0.68133145570755
+Threat Score: 0.6288341283798218
+Threat Score: 0.585330605506897
+Threat Score: 0.6844213008880615
+Threat Score: 0.6612282395362854
+Threat Score: 0.6630967855453491
+Threat Score: 0.7408689856529236
+Threat Score: 0.7796148061752319
+Threat Score: 0.7107972502708435
+Threat Score: 0.6432784199714661
+Threat Score: 0.6589242219924927
+Threat Score: 0.6341623663902283
+Threat Score: 0.6760104298591614
+Threat Score: 0.623372495174408
+Threat Score: 0.5888830423355103
+Updating best model
+Confusion matrix
+ tensor([[5.2796e+08, 4.6590e+07],
+        [1.0871e+08, 2.8442e+08]], device='cuda:0')
+Class 0
+TP 527958336.0, TN 284421056.0, FP 108710544.0, FN 46590276.0
+Class 1
+TP 284421056.0, TN 527958336.0, FP 46590276.0, FN 108710544.0
+
+Test set: Average loss: 491948514.5000, 
+        Accuracy (Post): 812379166/967680000 (84%) ,
+        Accuracy (Prior): 812379163/967680000 (84%) ,
+        Road: TP [5.2795834e+08 2.8442106e+08] , 
+        TN [2.8442106e+08 5.2795834e+08]
+        FP [1.0871054e+08 4.6590276e+07]
+        FN [4.6590276e+07 1.0871054e+08]
+====> Posterior Test set loss: 325362.7741
+====> Prior Test set loss: 325362.7771
