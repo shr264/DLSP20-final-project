@@ -192,7 +192,7 @@ class Decoder(nn.Module):
 
 class Decoder1(nn.Module):
     def __init__(self):
-        super(Decoder1, self).__init__()
+        super().__init__()
         self.convt1 = ConvTLayer(4096, 2048, stride=2)
         self.convt2 = ConvTLayer(2048, 1024, stride=2, output_padding=(1, 1))
         self.convt3 = ConvTLayer(
@@ -617,8 +617,8 @@ class CNN_ROT_UNET(nn.Module):
 
 class CNNVAE_ROT(nn.Module):
     def __init__(self, d=650, output_size=4):
-        super(CNN, self).__init__()
-        self.encoder = Encoder1(d=d)
+        super().__init__()
+        self.encoder = EncoderCNN(d=d)
         self.linear = nn.Linear(d, 4)
 
     def forward(self, x):

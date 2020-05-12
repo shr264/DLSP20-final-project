@@ -137,7 +137,7 @@ scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(optimizer,
                                                        verbose=True)
 print('Number of parameters: {}'.format(get_n_params(model_cnn)))
 
-train_and_test_RotUNet(model_cnn,
+train_and_test_RotNet(model_cnn,
                        learning_rate,
                        optimizer,
                        scheduler,
