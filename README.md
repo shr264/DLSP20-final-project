@@ -39,6 +39,7 @@ Our paper aims to provide a similar “self-supervised” formulation for identi
 1. Unlabeled set: Used for pre-training, this dataset consists of 106 scenes each with 126 samples
 2. Labeled set: Used for both training and validation, this consists of 28 scenes each with 126 samples which were randomly split into training and validation sets based on a 90/10 split of the scenes.
 
+
 ###Rotation Learning
 
 In this case the pretext task is to predict rotations of images. Each input image is randomly rotated by a multiple of $90^{\circ}$, corresponding to $[0^{\circ},90^{\circ},180^{\circ},270^{\circ}]$. The model is trained to predict which rotation has been applied, creating a 4-class classification problem. In order to identify the same image with different rotations, the model has to learn to recognize high-level, semantically meaningful concepts, such as tires, headlights and windows, and the relative positions of these parts. Once the network is trained, we can strip off the last layer and use it to generate a representation of the image. For example, in Figure \ref{fig:cnnvae} we use the weights from the Rotation Network for Encoder 1 and keep them frozen during training or fine-tune them further for the task at hand.
