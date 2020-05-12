@@ -12,7 +12,7 @@ from custom_helper import (get_n_params,
                            classScores,
                            split_list)
 
-from models import CNN_VAE_transfer
+from models import CNN_VAE, CNN_VAE_transfer
 from loss_functions import loss_function_CNNVAE
 from trainers import train_and_test_CNNVAE_BB, train_and_test_CNNVAE_Road
 from data_helper import UnlabeledDataset, LabeledDataset
@@ -107,10 +107,14 @@ testloader = torch.utils.data.DataLoader(labeled_testset,
                                          num_workers=0,
                                          collate_fn=collate_fn)
 
-model = CNN_VAE_transfer().to(device)
+
+# Defining the model
+
+
+model = CNN_VAE().to(device)
 # Setting the optimiser
 
-learning_rate = 1e-3
+learning_rate = 1e-2
 
 optimizer = torch.optim.Adam(
     model.parameters(),
@@ -123,11 +127,53 @@ scheduler = torch.optim.lr_scheduler.ReduceLROnPlateau(optimizer,
                                                        patience=5,
                                                        verbose=True)
 
+# Training and testing the VAE
+
 train_and_test_CNNVAE_Road(model,
                            learning_rate,
                            optimizer,
                            scheduler,
-                           name='CNNVAE_BB_transfer',
+                           trainloader,
+                           testloader,
+                           name='CNNVAE_Road',
+                           epochs=25,
+                           threshold=0.5,
+                           device=device)
+
+model = CNN_VAE_transfer().to(device)
+
+optimizer = torch.optim.Adam(
+    filter(lambda p: p.requires_grad, model.parameters()),
+    lr=learning_rate,
+    betas=(0.5, 0.999)
+)
+
+train_and_test_CNNVAE_Road(model,
+                           learning_rate,
+                           optimizer,
+                           scheduler,
+                           trainloader,
+                           testloader,
+                           name='CNNVAE_Road_transfer',
+                           epochs=25,
+                           threshold=0.5,
+                           device=device)
+
+model = CNN_VAE_transfer().to(device)
+
+optimizer = torch.optim.Adam(
+    model.parameters(),
+    lr=learning_rate,
+    betas=(0.5, 0.999)
+)
+
+train_and_test_CNNVAE_Road(model,
+                           learning_rate,
+                           optimizer,
+                           scheduler,
+                           trainloader,
+                           testloader,
+                           name='CNNVAE_Road_transfer_ft',
                            epochs=25,
                            threshold=0.5,
                            device=device)

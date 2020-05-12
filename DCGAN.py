@@ -16,7 +16,6 @@ import random
 import sys
 import time
 import os
-os.chdir('/scratch/shr264/myjupyter/dl-project-private/code')
 
 matplotlib.rcParams['figure.figsize'] = [5, 5]
 matplotlib.rcParams['figure.dpi'] = 200
@@ -68,6 +67,14 @@ G = Generator1()
 # If a gpu is available move all models to gpu
 G = G.to(device)
 D = D.to(device)
+
+
+def random_vector(batch_size, length, device=device):
+    # Sample from a Gaussian distribution
+    z_vec = torch.randn(batch_size, length, 1, 1).float()
+    if torch.cuda.is_available():
+        z_vec = z_vec.to(device)
+    return z_vec
 
 
 def real_loss(predictions, smooth=False):
@@ -192,7 +199,7 @@ for e in range(epochs):
             predictions = G.forward(sample_noise)
             plt.imshow(torchvision.utils.make_grid(
                 predictions.reshape(-1, 3, 256, 256)[0]).detach().cpu().numpy().transpose(1, 2, 0))
-            plt.savefig("/scratch/shr264/myjupyter/dl-project-private/code/imgs/DCGAN_generator_batch_" +
+            plt.savefig("imgs/DCGAN_generator_batch_" +
                         str(batch_idx)+".png", dpi=150)
     if (e % plot_every == 0):
         # Print losses
@@ -201,8 +208,8 @@ for e in range(epochs):
         plt.title("Trainings loss")
         plt.legend()
         plt.savefig(
-            "/scratch/shr264/myjupyter/dl-project-private/code/imgs/DCGAN_losses_epoch_"+str(e)+".png", dpi=150)
+            "imgs/DCGAN_losses_epoch_"+str(e)+".png", dpi=150)
         torch.save(G.state_dict(
-        ), "/scratch/shr264/myjupyter/dl-project-private/code/models/DCGAN_G_generator_epoch_"+str(e)+".pth")
+        ), "models/DCGAN_G_generator_epoch_"+str(e)+".pth")
         torch.save(D.state_dict(
-        ), "/scratch/shr264/myjupyter/dl-project-private/code/models/DCGAN_D_generator_epoch_"+str(e)+".pth")
+        ), "models/DCGAN_D_generator_epoch_"+str(e)+".pth")

@@ -12,7 +12,7 @@ from custom_helper import (get_n_params,
                            classScores,
                            split_list)
 
-from models import CNN_ROT_UNET
+from models import CNN_ROT_UNET, CNNVAE_ROT
 from trainers import train_and_test_RotNet
 from skimage import draw
 from random import sample
@@ -121,7 +121,7 @@ unlabeled_testset = UnlabeledRotationDataset(image_folder=image_folder,
 testloader = torch.utils.data.DataLoader(
     unlabeled_testset, batch_size=batch_size, shuffle=True, num_workers=0)
 
-model_cnn = CNN_ROT_UNET()
+model_cnn = CNNVAE_ROT()
 model_cnn = model_cnn.to(device)
 
 learning_rate = 1e-3
@@ -143,5 +143,5 @@ train_and_test_RotUNet(model_cnn,
                        scheduler,
                        trainloader,
                        testloader,
-                       name='rotation_learning_model_unet',
+                       name='rotation_learning_model',
                        epochs=25)

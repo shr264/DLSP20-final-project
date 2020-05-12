@@ -34,7 +34,7 @@ matplotlib.rcParams['figure.dpi'] = 200
 
 random.seed(0)
 np.random.seed(0)
-torch.manual_seed(0);
+torch.manual_seed(0)
 
 
 def loss_function_iou(x_hat, x, gamma=0.1, device=None):
@@ -104,56 +104,6 @@ def unet_weight_map(y, wc=None, w0=10, sigma=5, device=None):
     return w
 
 
-def unet_weight_map(y, wc=None, w0=100, sigma=3, device=None):
-    """
-    Generate weight maps as specified in the U-Net paper
-    for boolean mask.
-
-    "U-Net: Convolutional Networks for Biomedical Image Segmentation"
-    https://arxiv.org/pdf/1505.04597.pdf
-
-    Parameters
-    ----------
-    mask: Numpy array
-        2D array of shape (image_height, image_width) representing binary mask
-        of objects.
-    wc: dict
-        Dictionary of weight classes.
-    w0: int
-        Border weight parameter.
-    sigma: int
-        Border width parameter.
-
-    Returns
-    -------
-    Numpy array
-        Training weights. A 2D array of shape (image_height, image_width).
-    """
-    y = y.cpu()
-    labels = label(y)
-    no_labels = labels == 0
-    label_ids = sorted(np.unique(labels))[1:]
-
-    if len(label_ids) > 1:
-        distances = np.zeros((y.shape[0], y.shape[1], len(label_ids)))
-
-        for i, label_id in enumerate(label_ids):
-            distances[:, :, i] = distance_transform_edt(labels != label_id)
-
-        distances = np.sort(distances, axis=2)
-        d1 = distances[:, :, 0]
-        d2 = distances[:, :, 1]
-        w = w0 * np.exp(-1/2*((d1 + d2) / sigma)**2) * no_labels
-    else:
-        w = np.zeros_like(y)
-    if wc:
-        class_weights = np.zeros_like(y)
-        for k, v in wc.items():
-            class_weights[y == k] = v
-        w = w + class_weights
-    return w
-
-
 def dice_loss(pred, target, smooth=1., device=None):
     pred = pred.contiguous()
     target = target.contiguous()
@@ -161,7 +111,7 @@ def dice_loss(pred, target, smooth=1., device=None):
     intersection = (pred * target).sum(dim=2).sum(dim=2)
 
     loss = (1 - ((2. * intersection + smooth) /
-            (pred.sum(dim=2).sum(dim=2) + target.sum(dim=2).sum(dim=2) + smooth)))
+                 (pred.sum(dim=2).sum(dim=2) + target.sum(dim=2).sum(dim=2) + smooth)))
 
     return loss.mean()
 
@@ -177,7 +127,7 @@ def dice_loss_weighted(pred, target, smooth=1., device=None):
     intersection = (weight_ * pred * target).sum(dim=2).sum(dim=2)
 
     loss = (1 - ((2. * intersection + smooth) /
-            (pred.sum(dim=2).sum(dim=2) + target.sum(dim=2).sum(dim=2) + smooth)))
+                 (pred.sum(dim=2).sum(dim=2) + target.sum(dim=2).sum(dim=2) + smooth)))
 
     return loss.mean()
 
@@ -235,22 +185,10 @@ def loss_function_weighted(x_hat, x, gamma=0.75, epoch=None, device=None):
 
     return (1 - gamma) * BCE + gamma * DICE
 
-
- def dice_loss(pred, target, smooth=1.):
-    pred = pred.contiguous()
-    target = target.contiguous()
-
-    intersection = (pred * target).sum(dim=2).sum(dim=2)
-
-    loss = (1 - ((2. * intersection + smooth) /
-                 (pred.sum(dim=2).sum(dim=2) + target.sum(dim=2).sum(dim=2) + smooth)))
-
-    return loss.sum()
-
 # Reconstruction + KL divergence losses summed over all elements and batch
 
 
-def loss_function_CNNVAE(x_hat, x, mu, logvar, epoch=None):
+def loss_function_CNNVAE(x_hat, x, mu, logvar, epoch=None, device=None):
     # only weighted bCE for first 8 epochs
     if epoch != None and epoch < 8:
         # weighted
@@ -271,3 +209,25 @@ def loss_function_CNNVAE(x_hat, x, mu, logvar, epoch=None):
     DICE = dice_loss(x_hat, x)
 
     return BCE + KLD + DICE
+
+# Reconstruction + KL divergence losses summed over all elements and batch
+
+
+def loss_function(x_hat, x, epoch=None, device=None):
+    # only weighted bCE for first 8 epochs
+    if epoch != None and epoch < 15:
+        # weighted
+        weight = torch.tensor([1, 1000])
+        weight_ = weight[x.data.view(-1).long()].view_as(x).to(device)
+        BCE = nn.functional.binary_cross_entropy(
+            x_hat, x, reduction='none'
+        )
+        BCE = (BCE*weight_).mean()
+    else:
+        BCE = nn.functional.binary_cross_entropy(
+            x_hat, x, reduction='mean'
+        )
+
+    DICE = dice_loss(x_hat, x)
+
+    return BCE + DICE
