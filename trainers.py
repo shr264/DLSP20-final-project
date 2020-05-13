@@ -9,7 +9,6 @@ from custom_helper import (get_n_params,
                            convert_to_binary_mask,
                            create_conf_matrix,
                            create_conf_matrix2,
-                           classScores,
                            split_list)
 
 from loss_functions import loss_function_CNNVAE
@@ -27,6 +26,7 @@ import json
 import copy
 import pandas as pd
 import numpy as np
+from collections import Counter
 
 import torch
 from torch.optim.lr_scheduler import ReduceLROnPlateau
