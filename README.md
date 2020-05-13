@@ -32,6 +32,8 @@ The python scripts of interest are:
 5.  LEARNROT-CNNVAE.py (Rotation learning for VAE)
 6.  LearnRot-Unet-200.py (Rotation learning for Unet)
 
+Most of the simulations were produced using the files in the notebooks folder, but these have been cleaned up and presented here as standalone scripts.
+
 
 ## Self Supervised Road Map Prediction and Vehicle Detection
 
