@@ -17050,3 +17050,3348 @@ Test set: Average loss: -1.181784946,
         FN 518931.0
         Threat Score 0.007397022084403951
 ====> Test set loss: -0.001875849
+====> Epoch: 25 Average loss: -0.001487681
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.007659656926989555
+Channel:0
+Threat Score: 0.00956800952553749
+Channel:0
+Threat Score: 0.008776498958468437
+Channel:0
+Threat Score: 0.00803168211132288
+Channel:0
+Threat Score: 0.003611224004998803
+Channel:0
+Threat Score: 0.00045857534860260785
+Channel:0
+Threat Score: 0.0014442438259720802
+Channel:0
+Threat Score: 0.016195116564631462
+Channel:0
+Threat Score: 0.0022740340791642666
+Channel:0
+Threat Score: 0.01588989794254303
+Channel:0
+Threat Score: 0.008029879070818424
+Channel:0
+Threat Score: 0.022973129525780678
+Channel:0
+Threat Score: 0.012142527848482132
+Channel:0
+Threat Score: 0.0005749228876084089
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.025249723345041275
+Channel:0
+Threat Score: 0.004392576403915882
+Channel:0
+Threat Score: 0.017438210546970367
+Channel:0
+Threat Score: 0.00020693936676252633
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.022184301167726517
+Channel:0
+Threat Score: 0.01053864136338234
+Channel:0
+Threat Score: 0.0013569582952186465
+Channel:0
+Threat Score: 0.016921384260058403
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 9.648784180171788e-05
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.02544105239212513
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.009852323681116104
+Channel:0
+Threat Score: 0.0030897026881575584
+Channel:0
+Threat Score: 0.022738629952073097
+Channel:0
+Threat Score: 0.0016041944036260247
+Channel:0
+Threat Score: 0.0010511637665331364
+Channel:0
+Threat Score: 0.0006561987102031708
+Channel:0
+Threat Score: 0.01853499934077263
+Channel:0
+Threat Score: 0.016497842967510223
+Channel:0
+Threat Score: 0.005325218662619591
+Channel:0
+Threat Score: 0.006250415463000536
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.03556031361222267
+Channel:0
+Threat Score: 0.003654233878478408
+Channel:0
+Threat Score: 0.018105095252394676
+Channel:0
+Threat Score: 0.011231530457735062
+Channel:0
+Threat Score: 0.008680223487317562
+Channel:0
+Threat Score: 0.009045933373272419
+Channel:0
+Threat Score: 0.0016258882824331522
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.006637449376285076
+Channel:0
+Threat Score: 0.0015408321050927043
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 9.545172360958531e-05
+Channel:0
+Threat Score: 0.0012312858598306775
+Channel:0
+Threat Score: 0.013634058646857738
+Channel:0
+Threat Score: 0.0022760608699172735
+Channel:0
+Threat Score: 0.00027617852902039886
+Channel:0
+Threat Score: 0.008699793368577957
+Channel:0
+Threat Score: 0.004419806879013777
+Channel:0
+Threat Score: 0.003541345242410898
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.012574686668813229
+Channel:0
+Threat Score: 0.0019325804896652699
+Channel:0
+Threat Score: 0.0009976541623473167
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.00965315941721201
+Channel:0
+Threat Score: 0.006204400677233934
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.008082377724349499
+Channel:0
+Threat Score: 0.006817006040364504
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0013055832823738456
+Channel:0
+Threat Score: 0.006788866128772497
+Channel:0
+Threat Score: 0.0049108038656413555
+Channel:0
+Threat Score: 0.0002897405647672713
+Channel:0
+Threat Score: 0.00031246093567460775
+Channel:0
+Threat Score: 0.009148189797997475
+Channel:0
+Threat Score: 0.012708012014627457
+Channel:0
+Threat Score: 0.017412440851330757
+Channel:0
+Threat Score: 0.003889624262228608
+Channel:0
+Threat Score: 0.009059137664735317
+Channel:0
+Threat Score: 0.005848826374858618
+Channel:0
+Threat Score: 0.029727719724178314
+Channel:0
+Threat Score: 0.018278848379850388
+Channel:0
+Threat Score: 0.0019528071861714125
+Channel:0
+Threat Score: 0.002163409488275647
+Channel:0
+Threat Score: 0.010148468427360058
+Channel:0
+Threat Score: 0.012404149398207664
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.006758702453225851
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0002079218247672543
+Channel:0
+Threat Score: 0.014789066277444363
+Channel:0
+Threat Score: 0.010174528695642948
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0021691974252462387
+Channel:0
+Threat Score: 0.004361293278634548
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.027441484853625298
+Channel:0
+Threat Score: 0.013418813236057758
+Channel:0
+Threat Score: 0.01628200151026249
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.014574755914509296
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.025952894240617752
+Channel:0
+Threat Score: 0.01501674298197031
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.009949632920324802
+Channel:0
+Threat Score: 0.013223182410001755
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0037264693528413773
+Channel:0
+Threat Score: 0.014653395861387253
+Channel:0
+Threat Score: 0.0018453694647178054
+Channel:0
+Threat Score: 0.008963716216385365
+Channel:0
+Threat Score: 0.0006687565473839641
+Channel:0
+Threat Score: 0.0018917667912319303
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.03386414796113968
+Channel:0
+Threat Score: 0.0006932752439752221
+Channel:0
+Threat Score: 0.017560161650180817
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.01147613674402237
+Channel:0
+Threat Score: 0.014791845344007015
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.006485426798462868
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.013197273947298527
+Channel:0
+Threat Score: 0.0017251294339075685
+Channel:0
+Threat Score: 0.015460420399904251
+Channel:0
+Threat Score: 0.00037415814585983753
+Channel:0
+Threat Score: 0.0011644948972389102
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.007672291714698076
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0006592557183466852
+Channel:0
+Threat Score: 3.0334284019772895e-05
+Channel:0
+Threat Score: 0.011136967688798904
+Channel:0
+Threat Score: 0.003107482334598899
+Channel:0
+Threat Score: 0.0006771329790353775
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.010145877487957478
+Channel:0
+Threat Score: 0.0016062573995441198
+Channel:0
+Threat Score: 0.005011100322008133
+Channel:0
+Threat Score: 0.007365499623119831
+Channel:0
+Threat Score: 0.0001538146025268361
+Channel:0
+Threat Score: 0.002171786269173026
+Channel:0
+Threat Score: 0.0014605809701606631
+Channel:0
+Threat Score: 0.00020958502136636525
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.002085100393742323
+Channel:0
+Threat Score: 0.01619960553944111
+Channel:0
+Threat Score: 0.03535325825214386
+Channel:0
+Threat Score: 0.013027082197368145
+Channel:0
+Threat Score: 0.0
+Confusion matrix
+ tensor([[3.9666e+08, 5.9801e+06],
+        [5.1671e+05, 4.5427e+04]], device='cuda:0')
+Class 0
+TP 396657792.0, TN 45427.0, FP 516709.0, FN 5980121.0
+Class 1
+TP 45427.0, TN 396657792.0, FP 5980121.0, FN 516709.0
+
+Test set: Average loss: -1.083431601, 
+        Accuracy BB: 396703170/403200000 (98.388683036%) ,
+        BB: 
+        TP 45427.0 
+        TN 396657792.0
+        FP 5980121.0
+        FN 516709.0
+        Threat Score 0.0069436281699113925
+====> Test set loss: -0.001719733
+====> Epoch: 0 Average loss: -0.000879111
+Channel:0
+Threat Score: 0.005197601392865181
+Channel:0
+Threat Score: 0.0026730848476290703
+Channel:0
+Threat Score: 0.003920955117791891
+Channel:0
+Threat Score: 0.00504981679841876
+Channel:0
+Threat Score: 0.006882193498313427
+Channel:0
+Threat Score: 0.0070977541618049145
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.01036905962973833
+Channel:0
+Threat Score: 0.009576127864420414
+Channel:0
+Threat Score: 0.004604258108884096
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.00015282959793694317
+Channel:0
+Threat Score: 0.006315162405371666
+Channel:0
+Threat Score: 0.009493010118603706
+Channel:0
+Threat Score: 0.00013440739712677896
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0017695403657853603
+Channel:0
+Threat Score: 0.009597375057637691
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0069108218885958195
+Channel:0
+Threat Score: 0.004643422085791826
+Channel:0
+Threat Score: 0.00785345770418644
+Channel:0
+Threat Score: 0.00010281643335474655
+Channel:0
+Threat Score: 0.010885067284107208
+Channel:0
+Threat Score: 0.008996287360787392
+Channel:0
+Threat Score: 0.008297930471599102
+Channel:0
+Threat Score: 0.0031733554787933826
+Channel:0
+Threat Score: 0.012049755081534386
+Channel:0
+Threat Score: 0.0032707189675420523
+Channel:0
+Threat Score: 0.0038271674420684576
+Channel:0
+Threat Score: 0.0004291500081308186
+Channel:0
+Threat Score: 0.010806343518197536
+Channel:0
+Threat Score: 0.004272857215255499
+Channel:0
+Threat Score: 0.008745154365897179
+Channel:0
+Threat Score: 0.008744500577449799
+Channel:0
+Threat Score: 0.012855215929448605
+Channel:0
+Threat Score: 0.012576420791447163
+Channel:0
+Threat Score: 0.0027295502368360758
+Channel:0
+Threat Score: 0.0036452210042625666
+Channel:0
+Threat Score: 0.0036402877885848284
+Channel:0
+Threat Score: 0.00992649793624878
+Channel:0
+Threat Score: 0.0013140990631654859
+Channel:0
+Threat Score: 0.008262824267148972
+Channel:0
+Threat Score: 0.0043756249360740185
+Channel:0
+Threat Score: 0.01120744738727808
+Channel:0
+Threat Score: 0.00046605561510659754
+Channel:0
+Threat Score: 0.007333368994295597
+Channel:0
+Threat Score: 0.006416936405003071
+Channel:0
+Threat Score: 0.004349667578935623
+Channel:0
+Threat Score: 0.0003911375824827701
+Channel:0
+Threat Score: 0.010974069125950336
+Channel:0
+Threat Score: 0.009414884261786938
+Channel:0
+Threat Score: 0.00314460601657629
+Channel:0
+Threat Score: 0.006878724787384272
+Channel:0
+Threat Score: 0.002980791497975588
+Channel:0
+Threat Score: 0.009332772344350815
+Channel:0
+Threat Score: 0.004127857740968466
+Channel:0
+Threat Score: 0.008363433182239532
+Channel:0
+Threat Score: 0.014512350782752037
+Channel:0
+Threat Score: 0.0055098505690693855
+Channel:0
+Threat Score: 0.004567683674395084
+Channel:0
+Threat Score: 0.0023418194614350796
+Channel:0
+Threat Score: 0.008878789842128754
+Channel:0
+Threat Score: 0.01133308932185173
+Channel:0
+Threat Score: 0.005554416216909885
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0038995828945189714
+Channel:0
+Threat Score: 0.005603420082479715
+Channel:0
+Threat Score: 0.0052646733820438385
+Channel:0
+Threat Score: 0.005449169781059027
+Channel:0
+Threat Score: 0.0024846885353326797
+Channel:0
+Threat Score: 0.012189117260277271
+Channel:0
+Threat Score: 0.010118789039552212
+Channel:0
+Threat Score: 0.0018075855914503336
+Channel:0
+Threat Score: 0.012202398851513863
+Channel:0
+Threat Score: 0.008033260703086853
+Channel:0
+Threat Score: 0.003613983280956745
+Channel:0
+Threat Score: 0.0024550524540245533
+Channel:0
+Threat Score: 0.0034257981460541487
+Channel:0
+Threat Score: 0.00013477996981237084
+Channel:0
+Threat Score: 0.004458245355635881
+Channel:0
+Threat Score: 8.747290848987177e-05
+Channel:0
+Threat Score: 0.00205064844340086
+Channel:0
+Threat Score: 0.0015196397434920073
+Channel:0
+Threat Score: 0.00933816283941269
+Channel:0
+Threat Score: 0.002413674257695675
+Channel:0
+Threat Score: 0.0027232153806835413
+Channel:0
+Threat Score: 0.010483977384865284
+Channel:0
+Threat Score: 0.003031086875125766
+Channel:0
+Threat Score: 0.005518040619790554
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.00204565841704607
+Channel:0
+Threat Score: 0.0021042439620941877
+Channel:0
+Threat Score: 0.0146867074072361
+Channel:0
+Threat Score: 0.005039366893470287
+Channel:0
+Threat Score: 0.010744168423116207
+Channel:0
+Threat Score: 0.01065821386873722
+Channel:0
+Threat Score: 0.009606377221643925
+Channel:0
+Threat Score: 0.007041835226118565
+Channel:0
+Threat Score: 0.003934272099286318
+Channel:0
+Threat Score: 0.0043236855417490005
+Channel:0
+Threat Score: 0.02125753089785576
+Channel:0
+Threat Score: 0.009630072861909866
+Channel:0
+Threat Score: 0.0003008673375006765
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.011074746027588844
+Channel:0
+Threat Score: 0.004634068347513676
+Channel:0
+Threat Score: 0.016270609572529793
+Channel:0
+Threat Score: 0.006897615268826485
+Channel:0
+Threat Score: 0.010265067219734192
+Channel:0
+Threat Score: 0.004047070629894733
+Channel:0
+Threat Score: 0.0024893349036574364
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.001889479928649962
+Channel:0
+Threat Score: 0.0047405315563082695
+Channel:0
+Threat Score: 0.005784005392342806
+Channel:0
+Threat Score: 0.008776331320405006
+Channel:0
+Threat Score: 0.0068973698653280735
+Channel:0
+Threat Score: 0.004468606319278479
+Channel:0
+Threat Score: 0.010723498649895191
+Channel:0
+Threat Score: 4.844883005716838e-05
+Channel:0
+Threat Score: 0.003081102157011628
+Channel:0
+Threat Score: 0.007403149269521236
+Channel:0
+Threat Score: 0.004668408073484898
+Channel:0
+Threat Score: 0.009329653345048428
+Channel:0
+Threat Score: 0.00832686573266983
+Channel:0
+Threat Score: 0.0036901331041008234
+Channel:0
+Threat Score: 0.009766222909092903
+Channel:0
+Threat Score: 0.0010607120348140597
+Channel:0
+Threat Score: 0.013223789632320404
+Channel:0
+Threat Score: 0.008023851551115513
+Channel:0
+Threat Score: 0.0007661767886020243
+Channel:0
+Threat Score: 0.003247971413657069
+Channel:0
+Threat Score: 0.00328684295527637
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.008021672256290913
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0033306877594441175
+Channel:0
+Threat Score: 0.0030185990035533905
+Channel:0
+Threat Score: 0.0074151367880403996
+Channel:0
+Threat Score: 0.0002049684408120811
+Channel:0
+Threat Score: 0.00652458518743515
+Channel:0
+Threat Score: 0.005713706836104393
+Channel:0
+Threat Score: 0.00050568045116961
+Channel:0
+Threat Score: 0.0028375957626849413
+Channel:0
+Threat Score: 0.0030912053771317005
+Channel:0
+Threat Score: 0.005665606819093227
+Channel:0
+Threat Score: 0.012411212548613548
+Channel:0
+Threat Score: 0.003978874534368515
+Channel:0
+Threat Score: 0.011032803915441036
+Channel:0
+Threat Score: 0.008544397540390491
+Channel:0
+Threat Score: 0.0034909737296402454
+Channel:0
+Threat Score: 0.004586224909871817
+Channel:0
+Threat Score: 0.006544238422065973
+Channel:0
+Threat Score: 0.002976618241518736
+Channel:0
+Threat Score: 0.0067608971148729324
+Channel:0
+Threat Score: 0.005512489005923271
+Channel:0
+Threat Score: 0.005790200550109148
+Updating best model
+Confusion matrix
+ tensor([[3.8685e+08, 1.5787e+07],
+        [4.6980e+05, 9.2340e+04]], device='cuda:0')
+Class 0
+TP 386850944.0, TN 92340.0, FP 469796.0, FN 15786995.0
+Class 1
+TP 92340.0, TN 386850944.0, FP 15786995.0, FN 469796.0
+
+Test set: Average loss: -0.834218381, 
+        Accuracy BB: 386943209/403200000 (95.968057788%) ,
+        BB: 
+        TP 92340.0 
+        TN 386850944.0
+        FP 15786995.0
+        FN 469796.0
+        Threat Score 0.005648006612706204
+====> Test set loss: -0.001324156
+====> Epoch: 1 Average loss: -0.001184845
+Channel:0
+Threat Score: 0.002919055288657546
+Channel:0
+Threat Score: 0.0077031753025949
+Channel:0
+Threat Score: 0.0032499050721526146
+Channel:0
+Threat Score: 0.002858893247321248
+Channel:0
+Threat Score: 0.00855448842048645
+Channel:0
+Threat Score: 0.002893178490921855
+Channel:0
+Threat Score: 0.0020640522707253695
+Channel:0
+Threat Score: 0.0022302938159555197
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.02183178812265396
+Channel:0
+Threat Score: 0.003456280566751957
+Channel:0
+Threat Score: 0.012721219100058079
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.003098277375102043
+Channel:0
+Threat Score: 0.0008522651623934507
+Channel:0
+Threat Score: 0.0015382759738713503
+Channel:0
+Threat Score: 0.0020215220283716917
+Channel:0
+Threat Score: 0.01695682294666767
+Channel:0
+Threat Score: 0.0045263497158885
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.002130544278770685
+Channel:0
+Threat Score: 0.011778694577515125
+Channel:0
+Threat Score: 0.0012930460507050157
+Channel:0
+Threat Score: 0.017784377560019493
+Channel:0
+Threat Score: 0.0006188250845298171
+Channel:0
+Threat Score: 0.003376477165147662
+Channel:0
+Threat Score: 0.004719496238976717
+Channel:0
+Threat Score: 0.0017461944371461868
+Channel:0
+Threat Score: 0.0011463799746707082
+Channel:0
+Threat Score: 0.014679673127830029
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.007091490086168051
+Channel:0
+Threat Score: 0.002976988675072789
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.003374457359313965
+Channel:0
+Threat Score: 0.007094521075487137
+Channel:0
+Threat Score: 0.011424331925809383
+Channel:0
+Threat Score: 0.0024182891938835382
+Channel:0
+Threat Score: 0.003956248518079519
+Channel:0
+Threat Score: 0.002493895124644041
+Channel:0
+Threat Score: 0.004144839011132717
+Channel:0
+Threat Score: 0.010655238293111324
+Channel:0
+Threat Score: 0.021149856969714165
+Channel:0
+Threat Score: 0.0009514747653156519
+Channel:0
+Threat Score: 0.008043808862566948
+Channel:0
+Threat Score: 0.0007014218135736883
+Channel:0
+Threat Score: 0.0035115303471684456
+Channel:0
+Threat Score: 0.0028198547661304474
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.00021821809059474617
+Channel:0
+Threat Score: 0.00018177411402575672
+Channel:0
+Threat Score: 0.0018484288593754172
+Channel:0
+Threat Score: 0.028013769537210464
+Channel:0
+Threat Score: 0.007079295814037323
+Channel:0
+Threat Score: 6.0141330322949216e-05
+Channel:0
+Threat Score: 0.013580509461462498
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.001124227070249617
+Channel:0
+Threat Score: 0.005598235875368118
+Channel:0
+Threat Score: 0.021315302699804306
+Channel:0
+Threat Score: 0.009768053889274597
+Channel:0
+Threat Score: 0.005755899008363485
+Channel:0
+Threat Score: 0.0009372408967465162
+Channel:0
+Threat Score: 0.0007901614881120622
+Channel:0
+Threat Score: 0.016112495213747025
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 4.0243878174806014e-05
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.006669985130429268
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0031247169245034456
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.00880721677094698
+Channel:0
+Threat Score: 0.0026445172261446714
+Channel:0
+Threat Score: 0.00018841854762285948
+Channel:0
+Threat Score: 0.00918148085474968
+Channel:0
+Threat Score: 0.008562440052628517
+Channel:0
+Threat Score: 0.0029601610731333494
+Channel:0
+Threat Score: 0.007757438346743584
+Channel:0
+Threat Score: 0.01602332852780819
+Channel:0
+Threat Score: 0.00010052777361124754
+Channel:0
+Threat Score: 0.008126099593937397
+Channel:0
+Threat Score: 0.0026177424006164074
+Channel:0
+Threat Score: 0.005197005346417427
+Channel:0
+Threat Score: 0.0050983247347176075
+Channel:0
+Threat Score: 9.194768063025549e-05
+Channel:0
+Threat Score: 0.011259038001298904
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.017322735860943794
+Channel:0
+Threat Score: 0.017933722585439682
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.023305999115109444
+Channel:0
+Threat Score: 0.006981245707720518
+Channel:0
+Threat Score: 0.001980837434530258
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0015915721887722611
+Channel:0
+Threat Score: 0.016201715916395187
+Channel:0
+Threat Score: 0.011176432482898235
+Channel:0
+Threat Score: 0.01021442748606205
+Channel:0
+Threat Score: 0.0036001564003527164
+Channel:0
+Threat Score: 0.011808095499873161
+Channel:0
+Threat Score: 0.001226899796165526
+Channel:0
+Threat Score: 0.0014992504147812724
+Channel:0
+Threat Score: 0.0010368783259764314
+Channel:0
+Threat Score: 0.02312317304313183
+Channel:0
+Threat Score: 0.005239901598542929
+Channel:0
+Threat Score: 0.010892164893448353
+Channel:0
+Threat Score: 0.00863588321954012
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.004778330679982901
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.01267142966389656
+Channel:0
+Threat Score: 0.01012234203517437
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.009471782483160496
+Channel:0
+Threat Score: 0.008708964101970196
+Channel:0
+Threat Score: 0.009883839637041092
+Channel:0
+Threat Score: 0.0012615908635780215
+Channel:0
+Threat Score: 0.015284950844943523
+Channel:0
+Threat Score: 0.002802054863423109
+Channel:0
+Threat Score: 0.00802510604262352
+Channel:0
+Threat Score: 0.0007518090424127877
+Channel:0
+Threat Score: 0.027966395020484924
+Channel:0
+Threat Score: 0.0005237933364696801
+Channel:0
+Threat Score: 0.016801854595541954
+Channel:0
+Threat Score: 0.004857850261032581
+Channel:0
+Threat Score: 0.0005232862313278019
+Channel:0
+Threat Score: 0.002761801006272435
+Channel:0
+Threat Score: 0.0012864944292232394
+Channel:0
+Threat Score: 0.006064762827008963
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.013291980139911175
+Channel:0
+Threat Score: 0.009885032661259174
+Channel:0
+Threat Score: 0.00043733904021792114
+Channel:0
+Threat Score: 0.00023949227761477232
+Channel:0
+Threat Score: 0.004173228517174721
+Channel:0
+Threat Score: 0.012799696065485477
+Channel:0
+Threat Score: 0.008142414502799511
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.01882854290306568
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0016343684401363134
+Channel:0
+Threat Score: 0.010176124982535839
+Channel:0
+Threat Score: 0.003695150138810277
+Channel:0
+Threat Score: 0.003683627350255847
+Channel:0
+Threat Score: 0.016840677708387375
+Channel:0
+Threat Score: 0.0068291169591248035
+Channel:0
+Threat Score: 0.01083993911743164
+Channel:0
+Threat Score: 0.003221798688173294
+Channel:0
+Threat Score: 0.0011462632101029158
+Channel:0
+Threat Score: 0.004737637471407652
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.00410729693248868
+Channel:0
+Threat Score: 0.016176514327526093
+Channel:0
+Threat Score: 0.037939053028821945
+Updating best model
+Confusion matrix
+ tensor([[3.9759e+08, 5.0441e+06],
+        [5.2835e+05, 3.3782e+04]], device='cuda:0')
+Class 0
+TP 397593792.0, TN 33782.0, FP 528354.0, FN 5044115.0
+Class 1
+TP 33782.0, TN 397593792.0, FP 5044115.0, FN 528354.0
+
+Test set: Average loss: -0.891323131, 
+        Accuracy BB: 397627531/403200000 (98.617939236%) ,
+        BB: 
+        TP 33782.0 
+        TN 397593792.0
+        FP 5044115.0
+        FN 528354.0
+        Threat Score 0.006025773730073805
+====> Test set loss: -0.001414799
+====> Epoch: 2 Average loss: -0.001352330
+Channel:0
+Threat Score: 7.564677798654884e-05
+Channel:0
+Threat Score: 0.001157245715148747
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.003327316604554653
+Channel:0
+Threat Score: 0.007450074888765812
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.008947211317718029
+Channel:0
+Threat Score: 0.010268745943903923
+Channel:0
+Threat Score: 0.0012174929725006223
+Channel:0
+Threat Score: 0.007232919335365295
+Channel:0
+Threat Score: 0.004723648075014353
+Channel:0
+Threat Score: 0.009461024776101112
+Channel:0
+Threat Score: 0.000462412484921515
+Channel:0
+Threat Score: 0.008068084716796875
+Channel:0
+Threat Score: 0.022485041990876198
+Channel:0
+Threat Score: 9.740180394146591e-05
+Channel:0
+Threat Score: 0.0015264388639479876
+Channel:0
+Threat Score: 0.002842831891030073
+Channel:0
+Threat Score: 0.011676875874400139
+Channel:0
+Threat Score: 0.012293621897697449
+Channel:0
+Threat Score: 0.00023613371013198048
+Channel:0
+Threat Score: 0.00020949135068804026
+Channel:0
+Threat Score: 0.0013940520584583282
+Channel:0
+Threat Score: 0.0015277042984962463
+Channel:0
+Threat Score: 0.004234458785504103
+Channel:0
+Threat Score: 6.406834290828556e-05
+Channel:0
+Threat Score: 0.0005463048000819981
+Channel:0
+Threat Score: 0.002356952987611294
+Channel:0
+Threat Score: 0.004956779070198536
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.005648359656333923
+Channel:0
+Threat Score: 0.0006166428793221712
+Channel:0
+Threat Score: 0.005272051319479942
+Channel:0
+Threat Score: 2.368714012845885e-05
+Channel:0
+Threat Score: 0.010463028214871883
+Channel:0
+Threat Score: 0.006175316404551268
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0020105293951928616
+Channel:0
+Threat Score: 0.00903994869440794
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0005311433924362063
+Channel:0
+Threat Score: 0.01410974282771349
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.01566372625529766
+Channel:0
+Threat Score: 0.03070853278040886
+Channel:0
+Threat Score: 4.0776383684715256e-05
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.008827428333461285
+Channel:0
+Threat Score: 0.010465923696756363
+Channel:0
+Threat Score: 0.0002249368408229202
+Channel:0
+Threat Score: 0.006441042758524418
+Channel:0
+Threat Score: 0.02589990384876728
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.001624719356186688
+Channel:0
+Threat Score: 0.005739436484873295
+Channel:0
+Threat Score: 0.019004136323928833
+Channel:0
+Threat Score: 0.004141905345022678
+Channel:0
+Threat Score: 0.005097209010273218
+Channel:0
+Threat Score: 0.0035631293430924416
+Channel:0
+Threat Score: 0.02237992361187935
+Channel:0
+Threat Score: 0.008760975673794746
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.008652822114527225
+Channel:0
+Threat Score: 0.009539436548948288
+Channel:0
+Threat Score: 0.0024400942493230104
+Channel:0
+Threat Score: 0.011647375300526619
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.009537048637866974
+Channel:0
+Threat Score: 0.0060429442673921585
+Channel:0
+Threat Score: 0.008113531395792961
+Channel:0
+Threat Score: 0.01942899450659752
+Channel:0
+Threat Score: 0.017789477482438087
+Channel:0
+Threat Score: 0.0010560210794210434
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.00020552449859678745
+Channel:0
+Threat Score: 0.004770192783325911
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.006187142804265022
+Channel:0
+Threat Score: 0.0029020891524851322
+Channel:0
+Threat Score: 0.013948231935501099
+Channel:0
+Threat Score: 0.011913010850548744
+Channel:0
+Threat Score: 0.004673962481319904
+Channel:0
+Threat Score: 0.00726251071318984
+Channel:0
+Threat Score: 0.001641470124013722
+Channel:0
+Threat Score: 0.010735208168625832
+Channel:0
+Threat Score: 0.0007175991195254028
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.022820163518190384
+Channel:0
+Threat Score: 0.019403312355279922
+Channel:0
+Threat Score: 0.003606202779337764
+Channel:0
+Threat Score: 0.006785947363823652
+Channel:0
+Threat Score: 0.011979733593761921
+Channel:0
+Threat Score: 0.0066054691560566425
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0021717301569879055
+Channel:0
+Threat Score: 0.0076995487324893475
+Channel:0
+Threat Score: 0.004709840286523104
+Channel:0
+Threat Score: 0.014840962365269661
+Channel:0
+Threat Score: 0.010198444128036499
+Channel:0
+Threat Score: 0.02014576457440853
+Channel:0
+Threat Score: 0.00014124294102657586
+Channel:0
+Threat Score: 0.006649624556303024
+Channel:0
+Threat Score: 0.013774646446108818
+Channel:0
+Threat Score: 0.01660185493528843
+Channel:0
+Threat Score: 0.0013024662621319294
+Channel:0
+Threat Score: 0.01186696719378233
+Channel:0
+Threat Score: 0.001114137121476233
+Channel:0
+Threat Score: 0.010248024947941303
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0006685683620162308
+Channel:0
+Threat Score: 0.008835433050990105
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.007491889409720898
+Channel:0
+Threat Score: 0.0065305642783641815
+Channel:0
+Threat Score: 0.003938115201890469
+Channel:0
+Threat Score: 0.0035049784928560257
+Channel:0
+Threat Score: 0.006503827404230833
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.001073729363270104
+Channel:0
+Threat Score: 0.0035506722051650286
+Channel:0
+Threat Score: 0.0003748126036953181
+Channel:0
+Threat Score: 0.0027591383550316095
+Channel:0
+Threat Score: 0.013229720294475555
+Channel:0
+Threat Score: 0.012053760699927807
+Channel:0
+Threat Score: 0.023289229720830917
+Channel:0
+Threat Score: 0.004468759521842003
+Channel:0
+Threat Score: 0.005224765744060278
+Channel:0
+Threat Score: 0.0029725274071097374
+Channel:0
+Threat Score: 0.0007889067637734115
+Channel:0
+Threat Score: 0.005101832561194897
+Channel:0
+Threat Score: 0.00459482055157423
+Channel:0
+Threat Score: 0.013652010820806026
+Channel:0
+Threat Score: 0.004532292485237122
+Channel:0
+Threat Score: 0.0033057851251214743
+Channel:0
+Threat Score: 0.011313648894429207
+Channel:0
+Threat Score: 0.006306861527264118
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.012570302933454514
+Channel:0
+Threat Score: 0.01909993588924408
+Channel:0
+Threat Score: 0.006547311320900917
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.004655123688280582
+Channel:0
+Threat Score: 0.0016109019052237272
+Channel:0
+Threat Score: 0.0014511813642457128
+Channel:0
+Threat Score: 0.00020009782747365534
+Channel:0
+Threat Score: 0.005438666325062513
+Channel:0
+Threat Score: 0.012820898555219173
+Channel:0
+Threat Score: 6.087044675950892e-05
+Channel:0
+Threat Score: 0.01335578877478838
+Channel:0
+Threat Score: 0.01219219621270895
+Channel:0
+Threat Score: 0.00031229088199324906
+Channel:0
+Threat Score: 0.012618188746273518
+Channel:0
+Threat Score: 0.011138428002595901
+Channel:0
+Threat Score: 0.0003755705838557333
+Channel:0
+Threat Score: 0.011003363877534866
+Channel:0
+Threat Score: 0.0
+Updating best model
+Confusion matrix
+ tensor([[3.9573e+08, 6.9043e+06],
+        [5.1590e+05, 4.6240e+04]], device='cuda:0')
+Class 0
+TP 395733440.0, TN 46240.0, FP 515896.0, FN 6904288.0
+Class 1
+TP 46240.0, TN 395733440.0, FP 6904288.0, FN 515896.0
+
+Test set: Average loss: -0.933385080, 
+        Accuracy BB: 395779816/403200000 (98.159676587%) ,
+        BB: 
+        TP 46240.0 
+        TN 395733440.0
+        FP 6904288.0
+        FN 515896.0
+        Threat Score 0.0061930584172557035
+====> Test set loss: -0.001481564
+====> Epoch: 3 Average loss: -0.001303653
+Channel:0
+Threat Score: 0.0020237001590430737
+Channel:0
+Threat Score: 0.0006093071424402297
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.012246804311871529
+Channel:0
+Threat Score: 0.005925721954554319
+Channel:0
+Threat Score: 0.013163494877517223
+Channel:0
+Threat Score: 0.0006255864864215255
+Channel:0
+Threat Score: 0.0005222639301791787
+Channel:0
+Threat Score: 0.0059033953584730625
+Channel:0
+Threat Score: 0.002645788248628378
+Channel:0
+Threat Score: 8.011215686565265e-05
+Channel:0
+Threat Score: 0.006513391155749559
+Channel:0
+Threat Score: 0.0032782177440822124
+Channel:0
+Threat Score: 0.015798289328813553
+Channel:0
+Threat Score: 0.011730814352631569
+Channel:0
+Threat Score: 0.011326928623020649
+Channel:0
+Threat Score: 0.011725720018148422
+Channel:0
+Threat Score: 0.010069793090224266
+Channel:0
+Threat Score: 0.00024915390531532466
+Channel:0
+Threat Score: 0.003934480715543032
+Channel:0
+Threat Score: 0.011714886873960495
+Channel:0
+Threat Score: 0.009424451738595963
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.02408309280872345
+Channel:0
+Threat Score: 0.01345265656709671
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.005381715949624777
+Channel:0
+Threat Score: 0.027996070683002472
+Channel:0
+Threat Score: 0.00031954835867509246
+Channel:0
+Threat Score: 0.01922772452235222
+Channel:0
+Threat Score: 0.026939213275909424
+Channel:0
+Threat Score: 0.005429395474493504
+Channel:0
+Threat Score: 0.009110618382692337
+Channel:0
+Threat Score: 0.00595052307471633
+Channel:0
+Threat Score: 0.005961319897323847
+Channel:0
+Threat Score: 0.0014773958828300238
+Channel:0
+Threat Score: 0.010550959967076778
+Channel:0
+Threat Score: 0.00358031690120697
+Channel:0
+Threat Score: 0.00944967195391655
+Channel:0
+Threat Score: 0.0004549230507109314
+Channel:0
+Threat Score: 0.003346286714076996
+Channel:0
+Threat Score: 0.013068136759102345
+Channel:0
+Threat Score: 0.00489515857771039
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.017218034714460373
+Channel:0
+Threat Score: 0.006124131381511688
+Channel:0
+Threat Score: 0.004606600385159254
+Channel:0
+Threat Score: 0.014110407792031765
+Channel:0
+Threat Score: 0.009558802470564842
+Channel:0
+Threat Score: 0.005933661479502916
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.01810387335717678
+Channel:0
+Threat Score: 0.00029119994724169374
+Channel:0
+Threat Score: 0.007763664238154888
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.008184363134205341
+Channel:0
+Threat Score: 0.002123060403391719
+Channel:0
+Threat Score: 7.952497253427282e-05
+Channel:0
+Threat Score: 0.01971879042685032
+Channel:0
+Threat Score: 0.007421383634209633
+Channel:0
+Threat Score: 0.008295053616166115
+Channel:0
+Threat Score: 0.003916854038834572
+Channel:0
+Threat Score: 0.004220249131321907
+Channel:0
+Threat Score: 0.0011496247025206685
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.02645689994096756
+Channel:0
+Threat Score: 0.022140325978398323
+Channel:0
+Threat Score: 0.0013444403884932399
+Channel:0
+Threat Score: 0.013102883473038673
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.014380212873220444
+Channel:0
+Threat Score: 0.0013760565780103207
+Channel:0
+Threat Score: 0.005191671196371317
+Channel:0
+Threat Score: 0.0015441970899701118
+Channel:0
+Threat Score: 0.007950298488140106
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0019734108354896307
+Channel:0
+Threat Score: 0.0012946181232109666
+Channel:0
+Threat Score: 0.010724637657403946
+Channel:0
+Threat Score: 0.002075516851618886
+Channel:0
+Threat Score: 0.0021475080866366625
+Channel:0
+Threat Score: 0.00629836693406105
+Channel:0
+Threat Score: 2.601727464934811e-05
+Channel:0
+Threat Score: 0.014735852368175983
+Channel:0
+Threat Score: 0.00999829825013876
+Channel:0
+Threat Score: 0.011498148553073406
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.005651846062391996
+Channel:0
+Threat Score: 0.004218900576233864
+Channel:0
+Threat Score: 0.007561578415334225
+Channel:0
+Threat Score: 0.0016272671055048704
+Channel:0
+Threat Score: 0.005303424317389727
+Channel:0
+Threat Score: 0.014956289902329445
+Channel:0
+Threat Score: 0.0005730658886022866
+Channel:0
+Threat Score: 0.00013300348655320704
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0051784515380859375
+Channel:0
+Threat Score: 0.016724703833460808
+Channel:0
+Threat Score: 0.0025150272995233536
+Channel:0
+Threat Score: 0.0006701430538669229
+Channel:0
+Threat Score: 0.007169337011873722
+Channel:0
+Threat Score: 0.006421205587685108
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.012100821360945702
+Channel:0
+Threat Score: 0.016873586922883987
+Channel:0
+Threat Score: 0.011088688857853413
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.01138439029455185
+Channel:0
+Threat Score: 0.010220126248896122
+Channel:0
+Threat Score: 0.008532801643013954
+Channel:0
+Threat Score: 0.016067329794168472
+Channel:0
+Threat Score: 0.00014387108967639506
+Channel:0
+Threat Score: 0.0056778257712721825
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0021626073867082596
+Channel:0
+Threat Score: 0.021337173879146576
+Channel:0
+Threat Score: 0.003973479848355055
+Channel:0
+Threat Score: 0.026553688570857048
+Channel:0
+Threat Score: 0.0012134081916883588
+Channel:0
+Threat Score: 0.0004395516589283943
+Channel:0
+Threat Score: 0.021754007786512375
+Channel:0
+Threat Score: 0.006755253300070763
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.03454728424549103
+Channel:0
+Threat Score: 0.0050808219239115715
+Channel:0
+Threat Score: 0.007971779443323612
+Channel:0
+Threat Score: 0.0015548875089734793
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.02680155076086521
+Channel:0
+Threat Score: 0.03346404805779457
+Channel:0
+Threat Score: 0.0010041000787168741
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.008024804294109344
+Channel:0
+Threat Score: 0.007096531800925732
+Channel:0
+Threat Score: 0.006187956314533949
+Channel:0
+Threat Score: 0.0013482680078595877
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.007193572353571653
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.009057113900780678
+Channel:0
+Threat Score: 0.0026101532857865095
+Channel:0
+Threat Score: 0.007558085490018129
+Channel:0
+Threat Score: 0.008282296359539032
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.009689600206911564
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.001997158629819751
+Channel:0
+Threat Score: 0.006300765089690685
+Channel:0
+Threat Score: 0.008280032314360142
+Channel:0
+Threat Score: 0.004108078312128782
+Channel:0
+Threat Score: 0.007569675333797932
+Channel:0
+Threat Score: 0.01372966356575489
+Channel:0
+Threat Score: 0.019104961305856705
+Channel:0
+Threat Score: 0.020072992891073227
+Updating best model
+Confusion matrix
+ tensor([[3.9612e+08, 6.5157e+06],
+        [5.1272e+05, 4.9416e+04]], device='cuda:0')
+Class 0
+TP 396122144.0, TN 49416.0, FP 512720.0, FN 6515689.0
+Class 1
+TP 49416.0, TN 396122144.0, FP 6515689.0, FN 512720.0
+
+Test set: Average loss: -1.094858318, 
+        Accuracy BB: 396171591/403200000 (98.256843006%) ,
+        BB: 
+        TP 49416.0 
+        TN 396122144.0
+        FP 6515689.0
+        FN 512720.0
+        Threat Score 0.006981805851373833
+====> Test set loss: -0.001737870
+====> Epoch: 4 Average loss: -0.001338711
+Channel:0
+Threat Score: 0.0010805731872096658
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.005952529143542051
+Channel:0
+Threat Score: 0.007190816570073366
+Channel:0
+Threat Score: 0.021238021552562714
+Channel:0
+Threat Score: 0.0001160429383162409
+Channel:0
+Threat Score: 0.00012661433720495552
+Channel:0
+Threat Score: 0.00712339673191309
+Channel:0
+Threat Score: 0.009709550067782402
+Channel:0
+Threat Score: 0.01682122051715851
+Channel:0
+Threat Score: 0.006452248431742191
+Channel:0
+Threat Score: 0.011637573130428791
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0004888381808996201
+Channel:0
+Threat Score: 0.012158799916505814
+Channel:0
+Threat Score: 0.0003437607374507934
+Channel:0
+Threat Score: 0.007549579255282879
+Channel:0
+Threat Score: 0.0005855736089870334
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.004401052370667458
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.009796740487217903
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0037313431967049837
+Channel:0
+Threat Score: 0.005595366470515728
+Channel:0
+Threat Score: 0.018001051619648933
+Channel:0
+Threat Score: 0.010824041441082954
+Channel:0
+Threat Score: 0.00520381610840559
+Channel:0
+Threat Score: 0.0018113652477040887
+Channel:0
+Threat Score: 0.004657212179154158
+Channel:0
+Threat Score: 6.499415030702949e-05
+Channel:0
+Threat Score: 0.012001548893749714
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.026511235162615776
+Channel:0
+Threat Score: 0.0004204330325592309
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.012419359758496284
+Channel:0
+Threat Score: 0.016853081062436104
+Channel:0
+Threat Score: 0.05110069736838341
+Channel:0
+Threat Score: 0.00022403942421078682
+Channel:0
+Threat Score: 0.0019856547005474567
+Channel:0
+Threat Score: 0.0006100217578932643
+Channel:0
+Threat Score: 0.0005834924522787333
+Channel:0
+Threat Score: 0.0016356572741642594
+Channel:0
+Threat Score: 0.000253437232458964
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 4.299411011743359e-05
+Channel:0
+Threat Score: 0.018333593383431435
+Channel:0
+Threat Score: 0.0002932428615167737
+Channel:0
+Threat Score: 0.01012832298874855
+Channel:0
+Threat Score: 0.013455892913043499
+Channel:0
+Threat Score: 0.007507797796279192
+Channel:0
+Threat Score: 0.01637083664536476
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.02647296153008938
+Channel:0
+Threat Score: 0.00460927514359355
+Channel:0
+Threat Score: 0.005283848382532597
+Channel:0
+Threat Score: 0.01976889930665493
+Channel:0
+Threat Score: 0.0016141458181664348
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0005183788598515093
+Channel:0
+Threat Score: 0.004420500248670578
+Channel:0
+Threat Score: 0.0014762209029868245
+Channel:0
+Threat Score: 0.019885657355189323
+Channel:0
+Threat Score: 0.010873972438275814
+Channel:0
+Threat Score: 0.020042194053530693
+Channel:0
+Threat Score: 0.004514779895544052
+Channel:0
+Threat Score: 0.0004008337273262441
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.04407072439789772
+Channel:0
+Threat Score: 0.018504293635487556
+Channel:0
+Threat Score: 0.007444728631526232
+Channel:0
+Threat Score: 0.0034077614545822144
+Channel:0
+Threat Score: 0.018597550690174103
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.00576233584433794
+Channel:0
+Threat Score: 0.00039383862167596817
+Channel:0
+Threat Score: 0.0237299595028162
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.022309711202979088
+Channel:0
+Threat Score: 0.007604397367686033
+Channel:0
+Threat Score: 0.003264144528657198
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.012608093209564686
+Channel:0
+Threat Score: 0.0037221969105303288
+Channel:0
+Threat Score: 0.0007411630358546972
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.015349967405200005
+Channel:0
+Threat Score: 0.02195443958044052
+Channel:0
+Threat Score: 0.007240459322929382
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.026430903002619743
+Channel:0
+Threat Score: 0.001719690510071814
+Channel:0
+Threat Score: 0.0008623521425761282
+Channel:0
+Threat Score: 0.000401687080739066
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.009907468222081661
+Channel:0
+Threat Score: 0.01787172257900238
+Channel:0
+Threat Score: 0.009828377515077591
+Channel:0
+Threat Score: 0.03791052848100662
+Channel:0
+Threat Score: 0.002134688664227724
+Channel:0
+Threat Score: 0.03190192952752113
+Channel:0
+Threat Score: 0.0005482456181198359
+Channel:0
+Threat Score: 0.0034461021423339844
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.006694631651043892
+Channel:0
+Threat Score: 0.0003876156697515398
+Channel:0
+Threat Score: 0.0011811688309535384
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 9.954706183634698e-05
+Channel:0
+Threat Score: 0.0015288571594282985
+Channel:0
+Threat Score: 0.0007434207363985479
+Channel:0
+Threat Score: 0.0009887529304251075
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.005266446620225906
+Channel:0
+Threat Score: 0.004153416957706213
+Channel:0
+Threat Score: 0.014280292205512524
+Channel:0
+Threat Score: 0.0035433070734143257
+Channel:0
+Threat Score: 0.0007770007941871881
+Channel:0
+Threat Score: 0.00289521855302155
+Channel:0
+Threat Score: 0.01963806338608265
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.02418885938823223
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.015158513560891151
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.00011858645302709192
+Channel:0
+Threat Score: 0.024856511503458023
+Channel:0
+Threat Score: 0.001734805991873145
+Channel:0
+Threat Score: 0.006266205571591854
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.00014414067845791578
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.02764700911939144
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.014926320873200893
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.00788614060729742
+Channel:0
+Threat Score: 0.02677140198647976
+Channel:0
+Threat Score: 0.0020205664914101362
+Channel:0
+Threat Score: 0.0004928536363877356
+Channel:0
+Threat Score: 0.0018880809657275677
+Channel:0
+Threat Score: 0.0032152843195945024
+Channel:0
+Threat Score: 0.0026270896196365356
+Channel:0
+Threat Score: 0.005011337343603373
+Channel:0
+Threat Score: 0.0023788511753082275
+Channel:0
+Threat Score: 0.002666505053639412
+Confusion matrix
+ tensor([[3.9956e+08, 3.0800e+06],
+        [5.3827e+05, 2.3870e+04]], device='cuda:0')
+Class 0
+TP 399557728.0, TN 23870.0, FP 538266.0, FN 3080001.0
+Class 1
+TP 23870.0, TN 399557728.0, FP 3080001.0, FN 538266.0
+
+Test set: Average loss: -0.967450891, 
+        Accuracy BB: 399581733/403200000 (99.102612351%) ,
+        BB: 
+        TP 23870.0 
+        TN 399557728.0
+        FP 3080001.0
+        FN 538266.0
+        Threat Score 0.006553844624735423
+====> Test set loss: -0.001535636
+====> Epoch: 5 Average loss: -0.001262275
+Channel:0
+Threat Score: 0.0012199630727991462
+Channel:0
+Threat Score: 0.00038854265585541725
+Channel:0
+Threat Score: 0.0023283285554498434
+Channel:0
+Threat Score: 0.0011981393909081817
+Channel:0
+Threat Score: 0.0035785960499197245
+Channel:0
+Threat Score: 0.00420853728428483
+Channel:0
+Threat Score: 0.010848110541701317
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0018021728610619903
+Channel:0
+Threat Score: 0.01547484565526247
+Channel:0
+Threat Score: 0.0031274014618247747
+Channel:0
+Threat Score: 0.008708744309842587
+Channel:0
+Threat Score: 0.02316589467227459
+Channel:0
+Threat Score: 0.01822056621313095
+Channel:0
+Threat Score: 0.008909416384994984
+Channel:0
+Threat Score: 0.004089626017957926
+Channel:0
+Threat Score: 0.00800088606774807
+Channel:0
+Threat Score: 0.0001001251584966667
+Channel:0
+Threat Score: 0.0070579806342720985
+Channel:0
+Threat Score: 0.0004467754333745688
+Channel:0
+Threat Score: 0.00906344410032034
+Channel:0
+Threat Score: 0.01489003375172615
+Channel:0
+Threat Score: 0.0001620557886781171
+Channel:0
+Threat Score: 0.01847522146999836
+Channel:0
+Threat Score: 0.013830910436809063
+Channel:0
+Threat Score: 0.007796429097652435
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.010026488453149796
+Channel:0
+Threat Score: 0.000565221649594605
+Channel:0
+Threat Score: 0.0007464724476449192
+Channel:0
+Threat Score: 0.014630330726504326
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.004118885844945908
+Channel:0
+Threat Score: 0.0013834702549502254
+Channel:0
+Threat Score: 0.00017509386816527694
+Channel:0
+Threat Score: 0.0025242306292057037
+Channel:0
+Threat Score: 0.0052780467085540295
+Channel:0
+Threat Score: 0.001373883686028421
+Channel:0
+Threat Score: 0.008897986263036728
+Channel:0
+Threat Score: 0.007970965467393398
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0005410786834545434
+Channel:0
+Threat Score: 0.016662899404764175
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.011545601300895214
+Channel:0
+Threat Score: 0.00948670506477356
+Channel:0
+Threat Score: 0.016297966241836548
+Channel:0
+Threat Score: 0.0013004413340240717
+Channel:0
+Threat Score: 0.0010752079542726278
+Channel:0
+Threat Score: 0.02163556218147278
+Channel:0
+Threat Score: 0.002106084255501628
+Channel:0
+Threat Score: 0.007231076247990131
+Channel:0
+Threat Score: 0.0004676922981161624
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.020802689716219902
+Channel:0
+Threat Score: 0.002802729606628418
+Channel:0
+Threat Score: 0.02047942951321602
+Channel:0
+Threat Score: 0.007602543570101261
+Channel:0
+Threat Score: 0.009452627040445805
+Channel:0
+Threat Score: 0.030302319675683975
+Channel:0
+Threat Score: 0.0008710962720215321
+Channel:0
+Threat Score: 0.007660976145416498
+Channel:0
+Threat Score: 0.009517200291156769
+Channel:0
+Threat Score: 0.005731518846005201
+Channel:0
+Threat Score: 0.008680343627929688
+Channel:0
+Threat Score: 0.01629754528403282
+Channel:0
+Threat Score: 3.667907731141895e-05
+Channel:0
+Threat Score: 0.02582363411784172
+Channel:0
+Threat Score: 0.017206743359565735
+Channel:0
+Threat Score: 0.01008834969252348
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0012456896947696805
+Channel:0
+Threat Score: 0.010476424358785152
+Channel:0
+Threat Score: 0.0002252696140203625
+Channel:0
+Threat Score: 0.016773821786046028
+Channel:0
+Threat Score: 0.006442432291805744
+Channel:0
+Threat Score: 7.67832898418419e-05
+Channel:0
+Threat Score: 0.007879599928855896
+Channel:0
+Threat Score: 0.012414572760462761
+Channel:0
+Threat Score: 0.00024520105216652155
+Channel:0
+Threat Score: 0.014853899367153645
+Channel:0
+Threat Score: 0.018287023529410362
+Channel:0
+Threat Score: 0.0027451959904283285
+Channel:0
+Threat Score: 0.0008543286239728332
+Channel:0
+Threat Score: 0.010584371164441109
+Channel:0
+Threat Score: 0.009391611441969872
+Channel:0
+Threat Score: 0.008240191265940666
+Channel:0
+Threat Score: 0.0029607806354761124
+Channel:0
+Threat Score: 0.00820445828139782
+Channel:0
+Threat Score: 0.0006613270379602909
+Channel:0
+Threat Score: 0.024430425837635994
+Channel:0
+Threat Score: 0.0016553002642467618
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.013637925498187542
+Channel:0
+Threat Score: 0.0009719242225401103
+Channel:0
+Threat Score: 0.0030955630354583263
+Channel:0
+Threat Score: 0.015280995517969131
+Channel:0
+Threat Score: 0.016077570617198944
+Channel:0
+Threat Score: 0.009574539959430695
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.019361212849617004
+Channel:0
+Threat Score: 0.0008985734893940389
+Channel:0
+Threat Score: 0.017529435455799103
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.011632803827524185
+Channel:0
+Threat Score: 0.00910343136638403
+Channel:0
+Threat Score: 0.0005931784398853779
+Channel:0
+Threat Score: 0.01176428608596325
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.00927178654819727
+Channel:0
+Threat Score: 0.007744565140455961
+Channel:0
+Threat Score: 0.010559608228504658
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.012213018722832203
+Channel:0
+Threat Score: 0.0018898702692240477
+Channel:0
+Threat Score: 0.0012127996888011694
+Channel:0
+Threat Score: 0.006273035425692797
+Channel:0
+Threat Score: 0.005728167947381735
+Channel:0
+Threat Score: 0.005762161687016487
+Channel:0
+Threat Score: 0.003131226869300008
+Channel:0
+Threat Score: 0.04458967596292496
+Channel:0
+Threat Score: 0.0010123868705704808
+Channel:0
+Threat Score: 0.00350039335899055
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.010283490642905235
+Channel:0
+Threat Score: 0.012654946185648441
+Channel:0
+Threat Score: 0.010456695221364498
+Channel:0
+Threat Score: 0.02922065369784832
+Channel:0
+Threat Score: 0.013348459266126156
+Channel:0
+Threat Score: 0.004014038480818272
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0157235749065876
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.003044280456379056
+Channel:0
+Threat Score: 0.006709734443575144
+Channel:0
+Threat Score: 0.0019486797973513603
+Channel:0
+Threat Score: 0.0017552070785313845
+Channel:0
+Threat Score: 0.009439538232982159
+Channel:0
+Threat Score: 0.011620244942605495
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.026730075478553772
+Channel:0
+Threat Score: 0.012445887550711632
+Channel:0
+Threat Score: 0.0014449235750362277
+Channel:0
+Threat Score: 0.005634583532810211
+Channel:0
+Threat Score: 0.0025415492709726095
+Channel:0
+Threat Score: 0.0012078366708010435
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.005878091789782047
+Channel:0
+Threat Score: 0.0044378903694450855
+Channel:0
+Threat Score: 0.011159599758684635
+Channel:0
+Threat Score: 0.012387563474476337
+Channel:0
+Threat Score: 0.005407137330621481
+Channel:0
+Threat Score: 0.005349734798073769
+Channel:0
+Threat Score: 0.00238281162455678
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.012512214481830597
+Channel:0
+Threat Score: 0.0032859824132174253
+Channel:0
+Threat Score: 0.006070394068956375
+Updating best model
+Confusion matrix
+ tensor([[3.9516e+08, 7.4820e+06],
+        [5.0334e+05, 5.8795e+04]], device='cuda:0')
+Class 0
+TP 395155904.0, TN 58795.0, FP 503341.0, FN 7481958.0
+Class 1
+TP 58795.0, TN 395155904.0, FP 7481958.0, FN 503341.0
+
+Test set: Average loss: -1.095361325, 
+        Accuracy BB: 395214701/403200000 (98.019519097%) ,
+        BB: 
+        TP 58795.0 
+        TN 395155904.0
+        FP 7481958.0
+        FN 503341.0
+        Threat Score 0.007309089127998753
+====> Test set loss: -0.001738669
+====> Epoch: 6 Average loss: -0.001285940
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.003691654186695814
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0068647656589746475
+Channel:0
+Threat Score: 0.011008504778146744
+Channel:0
+Threat Score: 0.002930631395429373
+Channel:0
+Threat Score: 0.002262806287035346
+Channel:0
+Threat Score: 0.013994945213198662
+Channel:0
+Threat Score: 0.0281703919172287
+Channel:0
+Threat Score: 0.0031042429618537426
+Channel:0
+Threat Score: 0.0065427846275269985
+Channel:0
+Threat Score: 0.0005408800789155066
+Channel:0
+Threat Score: 0.004397732671350241
+Channel:0
+Threat Score: 0.0051498725079
+Channel:0
+Threat Score: 0.0063700429163873196
+Channel:0
+Threat Score: 0.0005879523232579231
+Channel:0
+Threat Score: 0.00016014519496820867
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.008479822427034378
+Channel:0
+Threat Score: 0.007040270138531923
+Channel:0
+Threat Score: 0.019248725846409798
+Channel:0
+Threat Score: 0.008897230960428715
+Channel:0
+Threat Score: 0.004942952189594507
+Channel:0
+Threat Score: 0.011208145879209042
+Channel:0
+Threat Score: 0.020469611510634422
+Channel:0
+Threat Score: 0.00685590086504817
+Channel:0
+Threat Score: 0.006049393210560083
+Channel:0
+Threat Score: 0.01754939742386341
+Channel:0
+Threat Score: 0.005259321071207523
+Channel:0
+Threat Score: 0.005312420893460512
+Channel:0
+Threat Score: 0.004616627003997564
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.015296435914933681
+Channel:0
+Threat Score: 0.0007656035013496876
+Channel:0
+Threat Score: 0.0007781863678246737
+Channel:0
+Threat Score: 0.008192400448024273
+Channel:0
+Threat Score: 0.011494609527289867
+Channel:0
+Threat Score: 0.016634533181786537
+Channel:0
+Threat Score: 0.017218254506587982
+Channel:0
+Threat Score: 0.018018197268247604
+Channel:0
+Threat Score: 0.000353257026290521
+Channel:0
+Threat Score: 0.006435759365558624
+Channel:0
+Threat Score: 0.0072357808239758015
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.007744943257421255
+Channel:0
+Threat Score: 0.005542144179344177
+Channel:0
+Threat Score: 0.006667020730674267
+Channel:0
+Threat Score: 0.00794173777103424
+Channel:0
+Threat Score: 0.0012413548538461328
+Channel:0
+Threat Score: 0.022187937051057816
+Channel:0
+Threat Score: 0.016205182299017906
+Channel:0
+Threat Score: 1.8233868104289286e-05
+Channel:0
+Threat Score: 0.009706786833703518
+Channel:0
+Threat Score: 0.003660440444946289
+Channel:0
+Threat Score: 0.007822963409125805
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.008992837741971016
+Channel:0
+Threat Score: 0.009093903005123138
+Channel:0
+Threat Score: 0.00640144944190979
+Channel:0
+Threat Score: 0.007698841392993927
+Channel:0
+Threat Score: 0.0003686126437969506
+Channel:0
+Threat Score: 0.009274328127503395
+Channel:0
+Threat Score: 0.005056378431618214
+Channel:0
+Threat Score: 0.010616401210427284
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.006477075628936291
+Channel:0
+Threat Score: 8.127273031277582e-05
+Channel:0
+Threat Score: 0.007451618555933237
+Channel:0
+Threat Score: 0.007423846982419491
+Channel:0
+Threat Score: 0.009818675927817822
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.013955364003777504
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 5.562663500313647e-05
+Channel:0
+Threat Score: 0.010178117081522942
+Channel:0
+Threat Score: 0.005189317278563976
+Channel:0
+Threat Score: 0.012856904417276382
+Channel:0
+Threat Score: 7.591093162773177e-05
+Channel:0
+Threat Score: 0.0138520747423172
+Channel:0
+Threat Score: 0.005888060200959444
+Channel:0
+Threat Score: 0.015362458303570747
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.006788637954741716
+Channel:0
+Threat Score: 0.009150133468210697
+Channel:0
+Threat Score: 0.018273115158081055
+Channel:0
+Threat Score: 0.013572342693805695
+Channel:0
+Threat Score: 0.003291008062660694
+Channel:0
+Threat Score: 0.0046015093103051186
+Channel:0
+Threat Score: 0.008121654391288757
+Channel:0
+Threat Score: 0.000300277752103284
+Channel:0
+Threat Score: 0.006058984901756048
+Channel:0
+Threat Score: 0.01094319112598896
+Channel:0
+Threat Score: 0.016000496223568916
+Channel:0
+Threat Score: 0.011933322064578533
+Channel:0
+Threat Score: 0.0014622448943555355
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.003030868247151375
+Channel:0
+Threat Score: 0.00227520358748734
+Channel:0
+Threat Score: 0.009935197420418262
+Channel:0
+Threat Score: 0.002961471676826477
+Channel:0
+Threat Score: 0.008711576461791992
+Channel:0
+Threat Score: 0.011045828461647034
+Channel:0
+Threat Score: 0.008323338814079762
+Channel:0
+Threat Score: 0.000456531677627936
+Channel:0
+Threat Score: 0.0033648430835455656
+Channel:0
+Threat Score: 0.018926125019788742
+Channel:0
+Threat Score: 0.01441101636737585
+Channel:0
+Threat Score: 0.0049779280088841915
+Channel:0
+Threat Score: 0.0009026681073009968
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0031843555625528097
+Channel:0
+Threat Score: 0.006481981836259365
+Channel:0
+Threat Score: 0.00013524072710424662
+Channel:0
+Threat Score: 0.0051796757616102695
+Channel:0
+Threat Score: 0.004680137149989605
+Channel:0
+Threat Score: 0.0002456813817843795
+Channel:0
+Threat Score: 0.004301445093005896
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.003441995708271861
+Channel:0
+Threat Score: 0.0009020024444907904
+Channel:0
+Threat Score: 0.002529371762648225
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.008813559077680111
+Channel:0
+Threat Score: 0.0021287528797984123
+Channel:0
+Threat Score: 0.013674878515303135
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.006720964331179857
+Channel:0
+Threat Score: 0.006522979121655226
+Channel:0
+Threat Score: 0.0062048351392149925
+Channel:0
+Threat Score: 0.0015518057625740767
+Channel:0
+Threat Score: 0.008681170642375946
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.016319965943694115
+Channel:0
+Threat Score: 0.0025458408053964376
+Channel:0
+Threat Score: 0.011545011773705482
+Channel:0
+Threat Score: 0.012245405465364456
+Channel:0
+Threat Score: 0.0116798160597682
+Channel:0
+Threat Score: 0.001664612558670342
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.003927839454263449
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.00041585543658584356
+Channel:0
+Threat Score: 0.012751886621117592
+Channel:0
+Threat Score: 0.02451188676059246
+Channel:0
+Threat Score: 0.015778977423906326
+Channel:0
+Threat Score: 0.005918495822697878
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.004470564424991608
+Channel:0
+Threat Score: 0.011002771556377411
+Channel:0
+Threat Score: 0.006810458842664957
+Channel:0
+Threat Score: 0.007047472521662712
+Channel:0
+Threat Score: 0.01329431775957346
+Channel:0
+Threat Score: 0.0023023299872875214
+Channel:0
+Threat Score: 0.015520809218287468
+Confusion matrix
+ tensor([[3.9395e+08, 8.6890e+06],
+        [5.0210e+05, 6.0031e+04]], device='cuda:0')
+Class 0
+TP 393948896.0, TN 60031.0, FP 502105.0, FN 8689015.0
+Class 1
+TP 60031.0, TN 393948896.0, FP 8689015.0, FN 502105.0
+
+Test set: Average loss: -1.014022277, 
+        Accuracy BB: 394008880/403200000 (97.720456349%) ,
+        BB: 
+        TP 60031.0 
+        TN 393948896.0
+        FP 8689015.0
+        FN 502105.0
+        Threat Score 0.006489030392002033
+====> Test set loss: -0.001609559
+====> Epoch: 7 Average loss: -0.001315574
+Channel:0
+Threat Score: 0.0009878710843622684
+Channel:0
+Threat Score: 0.000880803563632071
+Channel:0
+Threat Score: 0.009942584671080112
+Channel:0
+Threat Score: 0.00033612639526836574
+Channel:0
+Threat Score: 0.005788500886410475
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0034335674718022346
+Channel:0
+Threat Score: 0.0056268456391990185
+Channel:0
+Threat Score: 0.006698339246213436
+Channel:0
+Threat Score: 0.0004420455079525709
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.003141258377581835
+Channel:0
+Threat Score: 0.021507417783141136
+Channel:0
+Threat Score: 0.0018692546291276813
+Channel:0
+Threat Score: 0.004273731727153063
+Channel:0
+Threat Score: 0.004513566382229328
+Channel:0
+Threat Score: 0.00013262951688375324
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.01174249779433012
+Channel:0
+Threat Score: 0.0013626556610688567
+Channel:0
+Threat Score: 0.012703502550721169
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0054744938388466835
+Channel:0
+Threat Score: 0.014411226846277714
+Channel:0
+Threat Score: 0.02336040325462818
+Channel:0
+Threat Score: 0.001566289458423853
+Channel:0
+Threat Score: 0.0068803103640675545
+Channel:0
+Threat Score: 0.01689189113676548
+Channel:0
+Threat Score: 0.010504567064344883
+Channel:0
+Threat Score: 0.017822472378611565
+Channel:0
+Threat Score: 0.008656851947307587
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.014961250126361847
+Channel:0
+Threat Score: 0.02205599844455719
+Channel:0
+Threat Score: 3.736362123163417e-05
+Channel:0
+Threat Score: 0.004801154136657715
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.012323321774601936
+Channel:0
+Threat Score: 0.01412160973995924
+Channel:0
+Threat Score: 0.0005930370534770191
+Channel:0
+Threat Score: 0.004208962433040142
+Channel:0
+Threat Score: 0.011499432846903801
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.009102695621550083
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.004171736538410187
+Channel:0
+Threat Score: 0.0024714397732168436
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0008812762680463493
+Channel:0
+Threat Score: 0.0036040423437952995
+Channel:0
+Threat Score: 0.0013234044890850782
+Channel:0
+Threat Score: 0.009998595342040062
+Channel:0
+Threat Score: 0.020840134471654892
+Channel:0
+Threat Score: 0.0029185935854911804
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0036438286770135164
+Channel:0
+Threat Score: 0.017284192144870758
+Channel:0
+Threat Score: 0.0034460905008018017
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0030776725616306067
+Channel:0
+Threat Score: 0.0015283905668184161
+Channel:0
+Threat Score: 0.003231404349207878
+Channel:0
+Threat Score: 0.004055171739310026
+Channel:0
+Threat Score: 0.04523196443915367
+Channel:0
+Threat Score: 0.015028446912765503
+Channel:0
+Threat Score: 0.017672311514616013
+Channel:0
+Threat Score: 0.0016806722851470113
+Channel:0
+Threat Score: 0.0059748487547039986
+Channel:0
+Threat Score: 0.00582518894225359
+Channel:0
+Threat Score: 0.009889483451843262
+Channel:0
+Threat Score: 0.002848796546459198
+Channel:0
+Threat Score: 0.004708404187113047
+Channel:0
+Threat Score: 0.011352009139955044
+Channel:0
+Threat Score: 0.0018943444592878222
+Channel:0
+Threat Score: 0.001600431278347969
+Channel:0
+Threat Score: 0.011924944818019867
+Channel:0
+Threat Score: 0.018508192151784897
+Channel:0
+Threat Score: 0.0039004602003842592
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.001102879992686212
+Channel:0
+Threat Score: 0.00751202367246151
+Channel:0
+Threat Score: 0.013595937751233578
+Channel:0
+Threat Score: 0.013336087577044964
+Channel:0
+Threat Score: 0.0007132996106520295
+Channel:0
+Threat Score: 0.01667400263249874
+Channel:0
+Threat Score: 0.00025025595095939934
+Channel:0
+Threat Score: 0.016772381961345673
+Channel:0
+Threat Score: 0.001270744949579239
+Channel:0
+Threat Score: 0.013057476840913296
+Channel:0
+Threat Score: 0.004434358328580856
+Channel:0
+Threat Score: 0.003556920448318124
+Channel:0
+Threat Score: 0.007454708218574524
+Channel:0
+Threat Score: 0.011423339135944843
+Channel:0
+Threat Score: 6.800254050176591e-05
+Channel:0
+Threat Score: 0.011882768012583256
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.01733633689582348
+Channel:0
+Threat Score: 0.005361182615160942
+Channel:0
+Threat Score: 0.002369668334722519
+Channel:0
+Threat Score: 0.005735672079026699
+Channel:0
+Threat Score: 0.0007042253273539245
+Channel:0
+Threat Score: 0.004966842010617256
+Channel:0
+Threat Score: 0.008338356390595436
+Channel:0
+Threat Score: 0.0037408259231597185
+Channel:0
+Threat Score: 0.0034022668842226267
+Channel:0
+Threat Score: 0.002149697160348296
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.00013109022984281182
+Channel:0
+Threat Score: 0.01175657007843256
+Channel:0
+Threat Score: 0.010679948143661022
+Channel:0
+Threat Score: 0.015064609237015247
+Channel:0
+Threat Score: 0.0003368859470356256
+Channel:0
+Threat Score: 0.013215201906859875
+Channel:0
+Threat Score: 0.0176549032330513
+Channel:0
+Threat Score: 0.0024512920062988997
+Channel:0
+Threat Score: 0.013199505396187305
+Channel:0
+Threat Score: 0.008892805315554142
+Channel:0
+Threat Score: 0.010468004271388054
+Channel:0
+Threat Score: 0.019530795514583588
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.005250722169876099
+Channel:0
+Threat Score: 0.007675929926335812
+Channel:0
+Threat Score: 0.0007102115196175873
+Channel:0
+Threat Score: 0.002221343107521534
+Channel:0
+Threat Score: 0.011815774254500866
+Channel:0
+Threat Score: 0.018940124660730362
+Channel:0
+Threat Score: 0.02763311378657818
+Channel:0
+Threat Score: 2.6561836421024054e-05
+Channel:0
+Threat Score: 0.006768046412616968
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.004905574955046177
+Channel:0
+Threat Score: 0.00012259159120731056
+Channel:0
+Threat Score: 0.0014775292947888374
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0011268726084381342
+Channel:0
+Threat Score: 0.01321727130562067
+Channel:0
+Threat Score: 0.0018407079624012113
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.006379456724971533
+Channel:0
+Threat Score: 0.0028474307619035244
+Channel:0
+Threat Score: 0.008942284621298313
+Channel:0
+Threat Score: 0.015418033115565777
+Channel:0
+Threat Score: 0.015943413600325584
+Channel:0
+Threat Score: 0.012800320982933044
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.00017750560073181987
+Channel:0
+Threat Score: 0.009393473155796528
+Channel:0
+Threat Score: 0.011084474623203278
+Channel:0
+Threat Score: 0.008874195627868176
+Channel:0
+Threat Score: 0.02004849910736084
+Channel:0
+Threat Score: 0.00043211711454205215
+Channel:0
+Threat Score: 0.01245487667620182
+Channel:0
+Threat Score: 0.0075798360630869865
+Channel:0
+Threat Score: 0.01736423559486866
+Channel:0
+Threat Score: 0.0
+Confusion matrix
+ tensor([[3.9637e+08, 6.2729e+06],
+        [5.1562e+05, 4.6516e+04]], device='cuda:0')
+Class 0
+TP 396365024.0, TN 46516.0, FP 515620.0, FN 6272935.0
+Class 1
+TP 46516.0, TN 396365024.0, FP 6272935.0, FN 515620.0
+
+Test set: Average loss: -0.991659808, 
+        Accuracy BB: 396411445/403200000 (98.316330605%) ,
+        BB: 
+        TP 46516.0 
+        TN 396365024.0
+        FP 6272935.0
+        FN 515620.0
+        Threat Score 0.006805488926157461
+====> Test set loss: -0.001574063
+====> Epoch: 8 Average loss: -0.001334353
+Channel:0
+Threat Score: 0.017992448061704636
+Channel:0
+Threat Score: 0.002691415371373296
+Channel:0
+Threat Score: 0.01427649985998869
+Channel:0
+Threat Score: 0.0006037626299075782
+Channel:0
+Threat Score: 0.007005253806710243
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.00925284344702959
+Channel:0
+Threat Score: 0.012737328186631203
+Channel:0
+Threat Score: 9.420039714314044e-05
+Channel:0
+Threat Score: 0.00017557207320351154
+Channel:0
+Threat Score: 0.004901139531284571
+Channel:0
+Threat Score: 0.028029078617691994
+Channel:0
+Threat Score: 0.00016376566782128066
+Channel:0
+Threat Score: 0.0013086668914183974
+Channel:0
+Threat Score: 0.032491374760866165
+Channel:0
+Threat Score: 0.023523984476923943
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.012505053542554379
+Channel:0
+Threat Score: 0.0006473634857684374
+Channel:0
+Threat Score: 0.013848182745277882
+Channel:0
+Threat Score: 0.008764693513512611
+Channel:0
+Threat Score: 7.039279444143176e-05
+Channel:0
+Threat Score: 0.004601947031915188
+Channel:0
+Threat Score: 0.009783951565623283
+Channel:0
+Threat Score: 0.0004516074259299785
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.003036793088540435
+Channel:0
+Threat Score: 0.0019695700611919165
+Channel:0
+Threat Score: 0.04523061588406563
+Channel:0
+Threat Score: 0.0007358622387982905
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0011026330757886171
+Channel:0
+Threat Score: 0.005904581863433123
+Channel:0
+Threat Score: 0.0148032046854496
+Channel:0
+Threat Score: 0.0002338946796953678
+Channel:0
+Threat Score: 0.00859807152301073
+Channel:0
+Threat Score: 0.011742050759494305
+Channel:0
+Threat Score: 0.008789163082838058
+Channel:0
+Threat Score: 0.005864567589014769
+Channel:0
+Threat Score: 0.019718386232852936
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.000249719072598964
+Channel:0
+Threat Score: 0.0008056872175075114
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.012914158403873444
+Channel:0
+Threat Score: 0.0005836008349433541
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.019344817847013474
+Channel:0
+Threat Score: 3.9712482248432934e-05
+Channel:0
+Threat Score: 0.008357984013855457
+Channel:0
+Threat Score: 0.014023520052433014
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.025961538776755333
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0008172683883458376
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0039427317678928375
+Channel:0
+Threat Score: 0.016445783898234367
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0009757525403983891
+Channel:0
+Threat Score: 0.001784304971806705
+Channel:0
+Threat Score: 8.046509174164385e-05
+Channel:0
+Threat Score: 0.002924956614151597
+Channel:0
+Threat Score: 0.009276592172682285
+Channel:0
+Threat Score: 0.00015360589895863086
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.020177418366074562
+Channel:0
+Threat Score: 0.00036882676067762077
+Channel:0
+Threat Score: 0.0009657753398641944
+Channel:0
+Threat Score: 0.0013748854398727417
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0010906090028584003
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.00016955618048086762
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.014150409027934074
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.00018847476167138666
+Channel:0
+Threat Score: 0.0038324233610183
+Channel:0
+Threat Score: 0.01911425217986107
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.024928318336606026
+Channel:0
+Threat Score: 0.02451784536242485
+Channel:0
+Threat Score: 0.01999138854444027
+Channel:0
+Threat Score: 0.006436803378164768
+Channel:0
+Threat Score: 0.010440997779369354
+Channel:0
+Threat Score: 0.008971147239208221
+Channel:0
+Threat Score: 0.007761717773973942
+Channel:0
+Threat Score: 0.000550595810636878
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.01463859062641859
+Channel:0
+Threat Score: 0.027598118409514427
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.004407085943967104
+Channel:0
+Threat Score: 0.011544011533260345
+Channel:0
+Threat Score: 0.00014043816190678626
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.00047107593854889274
+Channel:0
+Threat Score: 0.0027414653450250626
+Channel:0
+Threat Score: 0.010887001641094685
+Channel:0
+Threat Score: 0.0026605986058712006
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.006815863307565451
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0026948400773108006
+Channel:0
+Threat Score: 0.00918930396437645
+Channel:0
+Threat Score: 0.010145008563995361
+Channel:0
+Threat Score: 0.0003712077741511166
+Channel:0
+Threat Score: 0.0073379045352339745
+Channel:0
+Threat Score: 2.8426049539120868e-05
+Channel:0
+Threat Score: 0.0029412873554974794
+Channel:0
+Threat Score: 0.0026110887993127108
+Channel:0
+Threat Score: 0.009380471892654896
+Channel:0
+Threat Score: 0.0059989565052092075
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.011029079556465149
+Channel:0
+Threat Score: 0.0010370626114308834
+Channel:0
+Threat Score: 0.004627970978617668
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.007697505876421928
+Channel:0
+Threat Score: 3.1296945962822065e-05
+Channel:0
+Threat Score: 0.009617667645215988
+Channel:0
+Threat Score: 0.008115977980196476
+Channel:0
+Threat Score: 0.012604758143424988
+Channel:0
+Threat Score: 0.023526012897491455
+Channel:0
+Threat Score: 0.0170504879206419
+Channel:0
+Threat Score: 0.008721831254661083
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.00438582943752408
+Channel:0
+Threat Score: 0.014883802272379398
+Channel:0
+Threat Score: 0.020392851904034615
+Channel:0
+Threat Score: 0.02639784663915634
+Channel:0
+Threat Score: 0.0021695769391953945
+Channel:0
+Threat Score: 0.01565922051668167
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0008210180676542222
+Channel:0
+Threat Score: 2.6456425985088572e-05
+Channel:0
+Threat Score: 0.00012699488434009254
+Channel:0
+Threat Score: 0.008685565553605556
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.007301791105419397
+Channel:0
+Threat Score: 0.007052015978842974
+Channel:0
+Threat Score: 0.007249660324305296
+Channel:0
+Threat Score: 0.029838312417268753
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0044057308696210384
+Channel:0
+Threat Score: 0.000585107714869082
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.03210904821753502
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.0
+Channel:0
+Threat Score: 0.00017792802827898413
+Confusion matrix
+ tensor([[3.9793e+08, 4.7099e+06],
+        [5.2822e+05, 3.3920e+04]], device='cuda:0')
+Class 0
+TP 397927840.0, TN 33920.0, FP 528216.0, FN 4709926.0
+Class 1
+TP 33920.0, TN 397927840.0, FP 4709926.0, FN 528216.0
+
+Test set: Average loss: -1.032135523, 
+        Accuracy BB: 397961858/403200000 (98.700857639%) ,
+        BB: 
+        TP 33920.0 
+        TN 397927840.0
+        FP 4709926.0
+        FN 528216.0
+        Threat Score 0.006433915230890683
+====> Test set loss: -0.001638310
