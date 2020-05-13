@@ -386,7 +386,7 @@ def train_and_test_RotNet(model_cnn,
                 print('Train Epoch: {} [{}/{} ({:.0f}%)]\tLoss: {:.6f}'.format(
                     epoch, batch_idx * len(data), len(trainloader.dataset),
                     100. * batch_idx / len(trainloader), loss.item()))
-            return model
+        return model
 
     def test(model, best_loss):
 
